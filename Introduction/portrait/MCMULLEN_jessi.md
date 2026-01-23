@@ -3,7 +3,7 @@
 
 ### Jessi McMullen
 
-![photo](selfie_de_moi.jpeg)
+![photo](selfie_de_moi.jpg)
 
 ## **Intérêts dans le multimedia**
 
