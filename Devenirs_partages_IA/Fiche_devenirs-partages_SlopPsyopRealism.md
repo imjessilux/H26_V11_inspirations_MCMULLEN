@@ -1,5 +1,6 @@
 # Devenirs Ptargés - pratiques de l'IA
-<img src="medias/exposition_devenirpartage_affiche.jpg" alt="Image" style="width:50%; height:auto;">
+<img src="medias/exposition_devenirpartage_affiche.jpg" alt="Image" style="width:50%; height:auto;">  
+> L'affiche de l'exposition
 
 <ins>**Lieu de mise en exposition:**</ins> Université de montréal - Pavillon de l'aménagement  
 <img src="medias/uni_mtl_selfie.jpg" alt="Image" style="width:50%; height:auto;">
@@ -11,14 +12,16 @@
 <ins>**Date de visite:**</ins> 30/01/2026
 
 <ins>**Titre de l'oeuvre:**</ins> SlopPsyopRealism (plea$esubscribe)  
-<img src="medias/oeuvre_slop_vue_ensemble.jpg" alt="Image" style="width:50%; height:auto;">
+<img src="medias/oeuvre_slop_vue_ensemble.jpg" alt="Image" style="width:50%; height:auto;">  
+> Photo de vue d'ensemble de l'oeuvre
 
 <ins>**nom de l'artiste:**</ins> IVADO - Frencisco Gonzàlex-Rosas
 
 <ins>**Année de réalisation:**:</ins> 2025
 
 <ins>**Description de l'oeuvre:**</ins>  
-<img src="medias/oeuvre_slop_cartel_oeuvre.jpg" alt="Image" style="width:50%; height:auto;">
+<img src="medias/oeuvre_slop_cartel_oeuvre.jpg" alt="Image" style="width:50%; height:auto;">  
+> Cartel de l'oeuvre
 
 <ins>**Type d'installation:**</ins> Immersive
 
