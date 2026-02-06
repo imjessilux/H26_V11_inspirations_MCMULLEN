@@ -7,7 +7,7 @@
 
 > moi devant l'entrée de l'édifice où l'exposition a lieu
 
- 	<ins>**Type d'exposition:**	</ins>temporaire & intérieure
+<ins>**Type d'exposition:**</ins> temporaire & intérieure
 
 __**Date de visite:**__  
 30/01/2026
