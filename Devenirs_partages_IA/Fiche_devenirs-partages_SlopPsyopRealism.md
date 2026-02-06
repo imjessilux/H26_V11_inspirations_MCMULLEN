@@ -22,7 +22,6 @@
 <img src="medias/oeuvre_slop_cartel_oeuvre.jpg" alt="Image" style="width:50%; height:auto;">
 
 **Type d'installation:**
-<img src="medias/oeuvre_slop_cartel_oeuvre.jpg" alt="Image" style="width:50%; height:auto;">
 
 **Mise en espace:**
 
