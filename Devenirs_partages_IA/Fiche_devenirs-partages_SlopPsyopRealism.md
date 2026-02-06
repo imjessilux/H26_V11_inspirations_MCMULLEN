@@ -29,7 +29,7 @@
 
 <ins>**Composantes et techniques:**</ins> Haut-parleurs, drapeau, peluches, chjandails, affiches, écrans, structure de bois, grille métallique, marchandises( porte-clé, T-shirt, gobelet, bracelets), lumière en cercle
 
-<ins>**Éléments nécessaires à la mise en exposition:**</ins> Câbles, sacs pouf, Télévision, lumière projeté, écouteurs, installation vidéos, chariot de rangement
+<ins>**### Éléments nécessaires à la mise en exposition:**</ins> Câbles, sacs pouf, Télévision, lumière projeté, écouteurs, installation vidéos, chariot de rangement
 
 <ins>**Éxpérience vécue:**</ins> l'intéracteur est distrait par de nombreux médias. Il y a beaucoup d'éléments divers sur l'oeuvre. L'utilisateur est porté à regarder partout, à écouter et regarde les courtes vidéos.
 
