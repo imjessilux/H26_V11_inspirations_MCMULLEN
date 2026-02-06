@@ -24,13 +24,20 @@
 > Cartel de l'oeuvre
 
 ### <ins>**Type d'installation:**</ins>  
-Immersive
+Immersive  
+<img src="medias/oeuvre_slop_vue_ensemble.jpg" alt="Image" style="width:50%; height:auto;">  
+>
 
 ### <ins>**Mise en espace:**</ins>  
 L'oeuvre était positionné dans le coin d'une salle avec plusieurs autres oeuvres. Sur un mur est accroché les composantes de l'oeuvre et de l'autre côté sont des éléments pour expliquer l'oeuvre et son histoire.
 
 ### <ins>**Composantes et techniques:**</ins>  
-Haut-parleurs, drapeau, peluches, chjandails, affiches, écrans, structure de bois, grille métallique, marchandises( porte-clé, T-shirt, gobelet, bracelets), lumière en cercle
+Haut-parleurs, drapeau, peluches, chjandails, affiches, écrans, structure de bois, grille métallique, marchandises( porte-clé, T-shirt, gobelet, bracelets), lumière en cercle  
+<img src="medias/sloppsyop_vue_proche_bas_droit.jpg" alt="Image" style="width:50%; height:auto;">  
+><img src="medias/sloppsyop_vue_proche_bas_gauche.jpg" alt="Image" style="width:50%; height:auto;">  
+><img src="medias/sloppsyop_vue_proche_gauche.jpg" alt="Image" style="width:50%; height:auto;">  
+><img src="medias/sloppsyop_vue_proche_haut_droit.jpg" alt="Image" style="width:50%; height:auto;">  
+>
 
 ### <ins>**Éléments nécessaires à la mise en exposition:**</ins>  
 Câbles, sacs pouf, Télévision, lumière projeté, écouteurs, installation vidéos, chariot de rangement
