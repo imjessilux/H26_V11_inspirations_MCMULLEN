@@ -1,8 +1,7 @@
 # Devenirs Ptargés - pratiques de l'IA
 <img src="medias/exposition_devenirpartage_affiche.jpg" alt="Image" style="width:50%; height:auto;">
 
-<ins>**Lieu de mise en exposition:**</ins> Université de montréal - Pavillon de l'aménagement
-
+<ins>**Lieu de mise en exposition:**</ins> Université de montréal - Pavillon de l'aménagement  
 <img src="medias/uni_mtl_selfie.jpg" alt="Image" style="width:50%; height:auto;">
 
 > moi devant l'entrée de l'édifice où l'exposition a lieu
@@ -18,8 +17,7 @@
 
 <ins>**Année de réalisation:**:</ins> 2025
 
-<ins>**Description de l'oeuvre:**</ins>
-
+<ins>**Description de l'oeuvre:**</ins>  
 <img src="medias/oeuvre_slop_cartel_oeuvre.jpg" alt="Image" style="width:50%; height:auto;">
 
 <ins>**Type d'installation:**</ins> Immersive
