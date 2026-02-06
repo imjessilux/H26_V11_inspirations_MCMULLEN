@@ -1,7 +1,8 @@
 # Devenirs Ptargés - pratiques de l'IA
 
 **Lieu de mise en exposition:** Université de montréal - Pavillon de l'aménagement
-<img src="medias/uni_mtl_selfie.jpg" alt="Image" style="width:50%; height:auto; margin: 0px auto;">
+
+<img src="medias/uni_mtl_selfie.jpg" alt="Image" style="width:50%; height:auto;">
 
 > moi devant l'entrée de l'édifice où l'exposition a lieu
 
@@ -11,4 +12,10 @@
 
 **Titre de l'oeuvre:** SlopPsyopRealism (plea$esubscribe)
 **nom de l'artiste:** IVADO - Frencisco Gonzàlrx-Rosas
-**Année de réalisation**: 2025
+**Année de réalisation:**: 2025
+**Description de l'oeuvre:**
+**Type d'installation:**
+**Mise en espace:**
+**Composantes et techniques**
+**Éléments nécessaires à la mise en exposition:**
+**
