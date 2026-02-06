@@ -9,7 +9,7 @@
  **Type d'exposition:** temporaire & intérieure
 
 **Date de visite:** 30/01/2026
-
+-
 **Titre de l'oeuvre:** SlopPsyopRealism (plea$esubscribe)
 **nom de l'artiste:** IVADO - Frencisco Gonzàlrx-Rosas
 **Année de réalisation:**: 2025
