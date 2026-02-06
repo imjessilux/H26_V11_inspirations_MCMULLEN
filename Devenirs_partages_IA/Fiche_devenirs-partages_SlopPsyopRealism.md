@@ -26,7 +26,7 @@
 
 <ins>**Mise en espace:**</ins> L'oeuvre était positionné dans le coin d'une salle avec plusieurs autres oeuvres. Sur un mur est accroché les composantes de l'oeuvre et de l'autre côté sont des éléments pour expliquer l'oeuvre et son histoire.
 
-<ins>**Composantes et techniques:**</ins> Haut parleurs, drapeau, peluches, chjandails, affiches, écrans, structure de bois, grille métallique, marchandises( porte-clé, T-shirt, gobelet, bracelets), lumière en cercle
+<ins>**Composantes et techniques:**</ins> Haut-parleurs, drapeau, peluches, chjandails, affiches, écrans, structure de bois, grille métallique, marchandises( porte-clé, T-shirt, gobelet, bracelets), lumière en cercle
 
 <ins>**Éléments nécessaires à la mise en exposition:**</ins> Câbles, sacs pouf, Télévision, lumière projeté, écouteurs, installation vidéos, chariot de rangement
 
@@ -34,4 +34,4 @@
 
 <ins>**Ce qui m'a plu ou donné des idées**</ins> Les cercles de couleur lumineux me font penser à la roue de couleur dans les programmes de dessins.
 
-<ins>**Aspect 
+<ins>**Aspect que je ne souhaiteriais pas retenir pour mes propres créations ou que je ferais autrement:**</ins> Je mettrais le son des haut-parleurs plus fort ou j'isolerais un peux l'oeuvre afin de bloquer le son des autres oeuvres ou des autres visiteurs dans la salle.
