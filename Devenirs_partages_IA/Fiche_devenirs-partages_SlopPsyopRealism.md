@@ -19,6 +19,7 @@
 **Année de réalisation:**: 2025
 
 **Description de l'oeuvre:**
+
 <img src="medias/oeuvre_slop_cartel_oeuvre.jpg" alt="Image" style="width:50%; height:auto;">
 
 **Type d'installation:**
