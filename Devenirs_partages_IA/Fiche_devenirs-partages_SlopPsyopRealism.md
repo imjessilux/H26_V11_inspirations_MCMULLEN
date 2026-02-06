@@ -26,7 +26,7 @@
 
 <ins>**Mise en espace:**</ins> L'oeuvre était positionné dans le coin d'une salle avec plusieurs autres oeuvres. Sur un mur est accroché les composantes de l'oeuvre et de l'autre côté sont des éléments pour expliquer l'oeuvre et son histoire.
 
-<ins>**Composantes et techniques:**<"ins> Haut parleurs, drapeau, peluches, chjandails, affiches, écrans, structure de bois, grille métallique, marchandises( porte-clé, T-shirt, gobelet, bracelets), lumière en cercle
+<ins>**Composantes et techniques:**</ins> Haut parleurs, drapeau, peluches, chjandails, affiches, écrans, structure de bois, grille métallique, marchandises( porte-clé, T-shirt, gobelet, bracelets), lumière en cercle
 
 <ins>**Éléments nécessaires à la mise en exposition:**</ins> Câbles, sacs pouf, Télévision, lumière projeté, écouteurs, installation vidéos, chariot de rangement
 
