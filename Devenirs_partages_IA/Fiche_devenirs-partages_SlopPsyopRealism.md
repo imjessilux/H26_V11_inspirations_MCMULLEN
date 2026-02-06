@@ -1,7 +1,7 @@
 # Devenirs Ptargés - pratiques de l'IA
 
 **Lieu de mise en exposition:** Université de montréal - Pavillon de l'aménagement
-<img src="medias/uni_mtl_selfie.jpg" alt="Image" style="width:50%; height:auto; margin: 0 auto;">
+<img src="medias/uni_mtl_selfie.jpg" alt="Image" style="width:50%; height:auto; margin: auto 0px;">
 
 > moi devant l'entrée de l'édifice où l'exposition a lieu
 
