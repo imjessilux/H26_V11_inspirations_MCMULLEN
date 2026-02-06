@@ -7,9 +7,11 @@
 
 > moi devant l'entrée de l'édifice où l'exposition a lieu
 
- __**Type d'exposition:**__ temporaire & intérieure
+ __**Type d'exposition:**__  
+ temporaire & intérieure
 
-__**Date de visite:**__ 30/01/2026
+__**Date de visite:**__  
+30/01/2026
 
 __**Titre de l'oeuvre:**__ SlopPsyopRealism (plea$esubscribe)
 <img src="medias/oeuvre_slop_vue_ensemble.jpg" alt="Image" style="width:50%; height:auto;">
