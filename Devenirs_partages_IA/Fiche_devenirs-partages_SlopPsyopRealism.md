@@ -3,6 +3,7 @@
 **Lieu de mise en exposition:** Université de montréal - Pavillon de l'aménagement
 ![photo](medias/uni_mtl_selfie.jpg)
 > moi devant l'entrée de l'édifice où l'exposition a lieu
+
  **Type d'exposition:** temporaire & intérieure
 
 **Date de visite:** 30/01/2026
