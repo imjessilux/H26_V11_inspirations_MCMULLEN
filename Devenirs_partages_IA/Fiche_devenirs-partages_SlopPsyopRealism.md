@@ -11,7 +11,7 @@
 
 <ins>**Date de visite:**</ins> 30/01/2026
 
-<ins>**Titre de l'oeuvre:**</ins> SlopPsyopRealism (plea$esubscribe)
+<ins>**Titre de l'oeuvre:**</ins> SlopPsyopRealism (plea$esubscribe)  
 <img src="medias/oeuvre_slop_vue_ensemble.jpg" alt="Image" style="width:50%; height:auto;">
 
 <ins>**nom de l'artiste:**</ins> IVADO - Frencisco Gonzàlex-Rosas
