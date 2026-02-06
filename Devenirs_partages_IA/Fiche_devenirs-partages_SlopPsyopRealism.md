@@ -1,4 +1,4 @@
-# Devenirs Ptargés - pratiques de l'IA
+# Devenirs Partagés - pratiques de l'IA
 <img src="medias/exposition_devenirpartage_affiche.jpg" alt="Image" style="width:50%; height:auto;">  
 > L'affiche de l'exposition
 
@@ -15,7 +15,7 @@
 <img src="medias/oeuvre_slop_vue_ensemble.jpg" alt="Image" style="width:50%; height:auto;">  
 > Photo de vue d'ensemble de l'oeuvre
 
-<ins>**nom de l'artiste:**</ins> IVADO - Frencisco Gonzàlex-Rosas
+<ins>**nom de l'artiste:**</ins> Francisco Gonzàlex-Rosas en collaboration avec IVADO
 
 <ins>**Année de réalisation:**:</ins> 2025
 
