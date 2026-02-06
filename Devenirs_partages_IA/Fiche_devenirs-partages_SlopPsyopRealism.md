@@ -12,14 +12,17 @@
 **Date de visite:** 30/01/2026
 
 **Titre de l'oeuvre:** SlopPsyopRealism (plea$esubscribe)
+<img src="medias/oeuvre_slop_vue_ensemble.jpg" alt="Image" style="width:50%; height:auto;">
 
 **nom de l'artiste:** IVADO - Frencisco Gonzàlrx-Rosas
 
 **Année de réalisation:**: 2025
 
 **Description de l'oeuvre:**
+<img src="medias/oeuvre_slop_cartel_oeuvre.jpg" alt="Image" style="width:50%; height:auto;">
 
 **Type d'installation:**
+<img src="medias/oeuvre_slop_cartel_oeuvre.jpg" alt="Image" style="width:50%; height:auto;">
 
 **Mise en espace:**
 
