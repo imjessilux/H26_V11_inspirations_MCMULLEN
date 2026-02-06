@@ -7,31 +7,31 @@
 
 > moi devant l'entrée de l'édifice où l'exposition a lieu
 
- **Type d'exposition:** temporaire & intérieure
+ __**Type d'exposition:**__ temporaire & intérieure
 
-**Date de visite:** 30/01/2026
+__**Date de visite:**__ 30/01/2026
 
-**Titre de l'oeuvre:** SlopPsyopRealism (plea$esubscribe)
+__**Titre de l'oeuvre:**__ SlopPsyopRealism (plea$esubscribe)
 <img src="medias/oeuvre_slop_vue_ensemble.jpg" alt="Image" style="width:50%; height:auto;">
 
-**nom de l'artiste:** IVADO - Frencisco Gonzàlex-Rosas
+__**nom de l'artiste:**__ IVADO - Frencisco Gonzàlex-Rosas
 
-**Année de réalisation:**: 2025
+__**Année de réalisation:**:__ 2025
 
-**Description de l'oeuvre:** 
+__**Description de l'oeuvre:**__
 
 <img src="medias/oeuvre_slop_cartel_oeuvre.jpg" alt="Image" style="width:50%; height:auto;">
 
-**Type d'installation:** Immersive
+__**Type d'installation:**__ Immersive
 
-**Mise en espace:** L'oeuvre était positionné dans le coin d'une salle avec plusieurs autres oeuvres. Sur un mur est accroché les composantes de l'oeuvre et de l'autre côté sont des éléments pour expliquer l'oeuvre et son histoire.
+__**Mise en espace:**__ L'oeuvre était positionné dans le coin d'une salle avec plusieurs autres oeuvres. Sur un mur est accroché les composantes de l'oeuvre et de l'autre côté sont des éléments pour expliquer l'oeuvre et son histoire.
 
-**Composantes et techniques:** Haut parleurs, drapeau, peluches, chjandails, affiches, écrans, structure de bois, grille métallique, marchandises( porte-clé, T-shirt, gobelet, bracelets), lumière en cercle
+__**Composantes et techniques:**__ Haut parleurs, drapeau, peluches, chjandails, affiches, écrans, structure de bois, grille métallique, marchandises( porte-clé, T-shirt, gobelet, bracelets), lumière en cercle
 
-**Éléments nécessaires à la mise en exposition:** Câbles, sacs pouf, Télévision, lumière projeté, écouteurs, installation vidéos, chariot de rangement
+__**Éléments nécessaires à la mise en exposition:**__ Câbles, sacs pouf, Télévision, lumière projeté, écouteurs, installation vidéos, chariot de rangement
 
-**Éxpérience vécue:** l'intéracteur est distrait par de nombreux médias. Il y a beaucoup d'éléments divers sur l'oeuvre. L'utilisateur est porté à regarder partout, à écouter et regarde les courtes vidéos.
+__**Éxpérience vécue:**__ l'intéracteur est distrait par de nombreux médias. Il y a beaucoup d'éléments divers sur l'oeuvre. L'utilisateur est porté à regarder partout, à écouter et regarde les courtes vidéos.
 
-**Ce qui m'a plu ou donné des idées** Les cercles de couleur lumineux me font penser à la roue de couleur dans les programmes de dessins.
+__**Ce qui m'a plu ou donné des idées**__ Les cercles de couleur lumineux me font penser à la roue de couleur dans les programmes de dessins.
 
 **Aspect 
