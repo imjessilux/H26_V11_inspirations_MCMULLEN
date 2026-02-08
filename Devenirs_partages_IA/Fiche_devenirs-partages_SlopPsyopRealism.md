@@ -40,7 +40,7 @@ L'oeuvre était positionné dans le coin d'une salle avec plusieurs autres oeuvr
 > Les 3 cercles sont les 3 sacs pouf pour regarder la vid/o qui joue sur la télé en arrière du mur. Le carré à droite est le drapeau, le long rectangle mince est le mur où en bas c'est l'exposition de l'oeuvre et en haut le côté pour regarder la vidéo. Le visiteur se situe en bas, pour observer et expérimenter l'oeuvre.
 
 ### <ins>**Composantes et techniques:**</ins>  
-Haut-parleurs, drapeau, peluches, chjandails, affiches, écrans, structure de bois, grille métallique, marchandises( porte-clé, T-shirt, gobelet, bracelets), lumière en cercle  
+Haut-parleurs, drapeau, peluches, chandails, affiches, écrans, structure de bois, grille métallique, marchandises( porte-clé, T-shirt, gobelet, bracelets), lumière en forme de cercle.  
 <img src="medias/sloppsyop_vue_proche_bas_droit.jpg" alt="Image" style="width:30%; height:auto;">
 <img src="medias/sloppsyop_vue_proche_bas_gauche.jpg" alt="Image" style="width:30%; height:auto;">  
 <img src="medias/sloppsyop_vue_proche_gauche.jpg" alt="Image" style="width:30%; height:auto;">
