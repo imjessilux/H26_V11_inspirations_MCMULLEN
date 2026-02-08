@@ -25,7 +25,7 @@ Francisco González-Rosas en collaboration avec IVADO
 ### <ins>**Année de réalisation:**:</ins> 2025
 
 ### <ins>**Description de l'oeuvre:**</ins>  
-L'oeuvre à beaucoup de contenu qui attire tous l'attention, il y a Des images, des vidéos, du son, des objets à vendre, des marchandises et des affiches.
+L'oeuvre à beaucoup de contenu qui attire tous l'attention, il y a Des images, des vidéos, du son, des objets à vendre, des marchandises et des affiches.  
 <img src="medias/oeuvre_slop_cartel_oeuvre.jpg" alt="Image" style="width:50%; height:auto;">  
 > Cartel de l'oeuvre
 
