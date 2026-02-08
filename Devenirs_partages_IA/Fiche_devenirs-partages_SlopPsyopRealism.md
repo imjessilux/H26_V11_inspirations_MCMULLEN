@@ -2,20 +2,25 @@
 <img src="medias/exposition_devenirpartage_affiche.jpg" alt="Image" style="width:40%; height:auto;">  
 > L'affiche de l'exposition
 
-<ins>**Lieu de mise en exposition:**</ins> Université de montréal - Pavillon de l'aménagement  
+## <ins>**Lieu de mise en exposition:**</ins>  
+Université de montréal - Pavillon de l'aménagement  
 <img src="medias/uni_mtl_selfie.jpg" alt="Image" style="width:40%; height:auto;">
 
 > moi devant l'entrée de l'édifice où l'exposition a lieu
 
-<ins>**Type d'exposition:**</ins> temporaire & intérieure
+### <ins>**Type d'exposition:**</ins>  
+temporaire & intérieure
 
-<ins>**Date de visite:**</ins> 30/01/2026
+### <ins>**Date de visite:**</ins>  
+30/01/2026
 
-<ins>**Titre de l'oeuvre:**</ins> SlopPsyopRealism (plea$esubscribe)  
+### <ins>**Titre de l'oeuvre:**</ins>  
+SlopPsyopRealism (plea$esubscribe)  
 <img src="medias/oeuvre_slop_vue_ensemble.jpg" alt="Image" style="width:50%; height:auto;">  
 > Photo de vue d'ensemble de l'oeuvre
 
-<ins>**nom de l'artiste:**</ins> Francisco Gonzàlex-Rosas en collaboration avec IVADO
+### <ins>**nom de l'artiste:**</ins>
+Francisco Gonzàlex-Rosas en collaboration avec IVADO
 
 ### <ins>**Année de réalisation:**:</ins> 2025
 
