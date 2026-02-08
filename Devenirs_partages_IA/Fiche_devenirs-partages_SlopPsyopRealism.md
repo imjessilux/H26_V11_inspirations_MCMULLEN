@@ -20,11 +20,12 @@ SlopPsyopRealism (plea$esubscribe)
 > Photo de vue d'ensemble de l'oeuvre
 
 ### <ins>**nom de l'artiste:**</ins>
-Francisco Gonzàlex-Rosas en collaboration avec IVADO
+Francisco González-Rosas en collaboration avec IVADO
 
 ### <ins>**Année de réalisation:**:</ins> 2025
 
-<ins>**Description de l'oeuvre:**</ins>  
+### <ins>**Description de l'oeuvre:**</ins>  
+L'oeuvre à beaucoup de contenu qui attire tous l'attention, il y a Des images, des vidéos, du son, des objets à vendre, des marchandises et des affiches.
 <img src="medias/oeuvre_slop_cartel_oeuvre.jpg" alt="Image" style="width:50%; height:auto;">  
 > Cartel de l'oeuvre
 
@@ -48,6 +49,7 @@ Haut-parleurs, drapeau, peluches, chjandails, affiches, écrans, structure de bo
 
 ### <ins>**Éléments nécessaires à la mise en exposition:**</ins>  
 Câbles, sacs pouf, Télévision, lumière projeté, écouteurs, installation vidéos, chariot de rangement
+# (ajouter images de arrière)
 
 ### <ins>**Éxpérience vécue:**</ins>  
 l'intéracteur est distrait par de nombreux médias. Il y a beaucoup d'éléments divers sur l'oeuvre. L'utilisateur est porté à regarder partout, à écouter et regarde les courtes vidéos.
