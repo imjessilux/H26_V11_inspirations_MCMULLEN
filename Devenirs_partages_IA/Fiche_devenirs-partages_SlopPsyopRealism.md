@@ -48,7 +48,7 @@ Haut-parleurs, drapeau, peluches, chandails, affiches, écrans, structure de boi
 > Plusieurs photo de vue de proche de l'oeuvre
 
 ### <ins>**Éléments nécessaires à la mise en exposition:**</ins>  
-Câbles, sacs pouf, Télévision, lumière projeté, écouteurs, installation vidéos, chariot de rangement
+Câbles, sacs pouf, Télévision, lumière projeté, écouteurs, installation vidéos, chariot de rangement  
 <img src="medias/sloppsyop_vue_arriere.jpg" alt="Image" style="width:30%; height:auto;"> <img src="medias/sloppsyo_vue_TV_arriere.jpg" alt="Image" style="width:30%; height:auto;">  
 > Vue de l'arrière de l'oeuvre
 
