@@ -49,7 +49,8 @@ Haut-parleurs, drapeau, peluches, chandails, affiches, écrans, structure de boi
 
 ### <ins>**Éléments nécessaires à la mise en exposition:**</ins>  
 Câbles, sacs pouf, Télévision, lumière projeté, écouteurs, installation vidéos, chariot de rangement
-# (ajouter images de arrière)
+<img src="medias/sloppsyop_vue_arriere.jpg" alt="Image" style="width:30%; height:auto;"> <img src="medias/sloppsyo_vue_TV_arriere.jpg" alt="Image" style="width:30%; height:auto;">  
+> Vue de l'arrière de l'oeuvre
 
 ### <ins>**Éxpérience vécue:**</ins>  
 l'intéracteur est distrait par de nombreux médias. Il y a beaucoup d'éléments divers sur l'oeuvre. L'utilisateur est porté à regarder partout, à écouter et regarde les courtes vidéos.
