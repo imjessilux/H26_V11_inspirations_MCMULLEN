@@ -1,6 +1,6 @@
 # Devenirs Partagés - pratiques de l'IA
 <img src="medias/exposition_devenirpartage_affiche.jpg" alt="Image" style="width:40%; height:auto;">  
-> L'affiche de l'exposition
+> Affiche de l'exposition
 
 ## <ins>**Lieu de mise en exposition:**</ins>  
 Université de montréal - Pavillon de l'aménagement  
