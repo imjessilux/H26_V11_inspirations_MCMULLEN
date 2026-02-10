@@ -4,8 +4,7 @@
 
 ## <ins>**Lieu de mise en exposition:**</ins>  
 Université de montréal - Pavillon de l'aménagement  
-<img src="medias/uni_mtl_selfie.jpg" alt="Image" style="width:40%; height:auto;">
-
+<img src="medias/uni_mtl_selfie.jpg" alt="Image" style="width:40%; height:auto;">  
 > moi devant l'entrée de l'édifice où l'exposition a lieu
 
 ### <ins>**Type d'exposition:**</ins>  
