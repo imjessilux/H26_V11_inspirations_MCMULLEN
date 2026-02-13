@@ -59,3 +59,6 @@ Les cercles de couleur lumineux me font penser à la roue de couleur dans les pr
 
 ### <ins>**Aspect que je ne souhaiteriais pas retenir pour mes propres créations ou que je ferais autrement:**</ins>  
 Je mettrais le son des haut-parleurs plus fort ou j'isolerais un peux l'oeuvre afin de bloquer le son des autres oeuvres ou des autres visiteurs dans la salle.
+
+### Références  
+Toutes les photos et croquis ont étés prisent par Jessi McMullen
