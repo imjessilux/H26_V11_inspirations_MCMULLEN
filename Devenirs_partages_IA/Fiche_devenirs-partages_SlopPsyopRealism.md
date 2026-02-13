@@ -62,4 +62,4 @@ Les cercles de couleur lumineux me font penser à la roue de couleur dans les pr
 Je mettrais le son des haut-parleurs plus fort ou j'isolerais un peux l'oeuvre afin de bloquer le son des autres oeuvres ou des autres visiteurs dans la salle.
 
 ### Références  
-Toutes les photos et croquis ont étés prisent par Jessi McMullen
+Toutes les photos et croquis ont étés réalisés par Jessi McMullen
