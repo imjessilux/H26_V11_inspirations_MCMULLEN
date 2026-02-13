@@ -37,7 +37,7 @@ Immersive, il y a des vidéos et du son qu'on peut entendre des haut-parleurs.
 ### <ins>**Mise en espace:**</ins>  
 L'oeuvre était positionné dans le coin d'une salle avec plusieurs autres oeuvres. Sur un mur est accroché les composantes de l'oeuvre et de l'autre côté sont des éléments pour expliquer l'oeuvre et son histoire.  
 <img src="medias/oeuvre_slop_croquis.jpg" alt="Image" style="width:30%; height:auto;">  
-> Les 3 cercles sont les 3 sacs pouf pour regarder la vid/o qui joue sur la télé en arrière du mur. Le carré à droite est le drapeau, le long rectangle mince est le mur où en bas c'est l'exposition de l'oeuvre et en haut le côté pour regarder la vidéo. Le visiteur se situe en bas, pour observer et expérimenter l'oeuvre.
+> Voici une vue de haut de l'oeuvre. Le 1 désigne l'endroit où doit se situé le visiteur pour expérimenter l'oeuvre, de l'autre côté est une vidéo avec des écouteurs pour expliquer et présenter le processus artistique de l'oeuvre. Les 3 cercles du haut sont les 3 sacs pouf pour regarder la vidéo qui joue sur la télé en arrière du mur. Le carré rose à droite est le drapeau, le  rectangle mince en jaune est le mur où en bas c'est l'exposition de l'oeuvre et en haut le côté pour regarder la vidéo.
 
 ### <ins>**Composantes et techniques:**</ins>  
 Haut-parleurs, drapeau, peluches, chandails, affiches, écrans, structure de bois, grille métallique, marchandises( porte-clé, T-shirt, gobelet, bracelets), lumière en forme de cercle.  
@@ -48,7 +48,7 @@ Haut-parleurs, drapeau, peluches, chandails, affiches, écrans, structure de boi
 > Plusieurs photo de vue de proche de l'oeuvre
 
 ### <ins>**Éléments nécessaires à la mise en exposition:**</ins>  
-Câbles, sacs pouf, Télévision, lumière projeté, écouteurs, installation vidéos, chariot de rangement  
+Câbles, sacs pouf, Télévision, lumière projeté, écouteurs, installation vidéos, chariot de rangement,   
 <img src="medias/sloppsyop_vue_arriere.jpg" alt="Image" style="width:60%; height:auto;"> <img src="medias/sloppsyo_vue_TV_arriere.jpg" alt="Image" style="width:30%; height:auto;">  
 > Vue de l'arrière de l'oeuvre
 
