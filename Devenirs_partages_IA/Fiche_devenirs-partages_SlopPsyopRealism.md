@@ -37,7 +37,7 @@ Immersive, il y a des vidéos et du son qu'on peut entendre des haut-parleurs.
 ### <ins>**Mise en espace:**</ins>  
 L'oeuvre était positionné dans le coin d'une salle avec plusieurs autres oeuvres. Sur un mur est accroché les composantes de l'oeuvre et de l'autre côté sont des éléments pour expliquer l'oeuvre et son histoire.  
 <img src="medias/oeuvre_slop_croquis.jpg" alt="Image" style="width:30%; height:auto;">  
-> Voici une vue de haut de l'oeuvre. Le 1 désigne l'endroit où doit se situé le visiteur pour expérimenter l'oeuvre, de l'autre côté est une vidéo avec des écouteurs pour expliquer et présenter le processus artistique de l'oeuvre. Les 3 cercles du haut sont les 3 sacs pouf pour regarder la vidéo qui joue sur la télé en arrière du mur. Le carré rose à droite est le drapeau, le  rectangle mince en jaune est le mur où en bas c'est l'exposition de l'oeuvre et en haut le côté pour regarder la vidéo.
+> Voici une vue de haut de l'oeuvre. Le 1 sur le croquis désigne l'endroit où doit se situé le visiteur pour expérimenter l'oeuvre, de l'autre côté est une vidéo avec des écouteurs pour expliquer et présenter le processus artistique de l'oeuvre. Les 3 cercles du haut sont les 3 sacs pouf pour regarder la vidéo qui joue sur la télé en arrière du mur. Le carré rose à droite est le drapeau, le  rectangle mince en jaune est le mur où en bas c'est l'exposition de l'oeuvre et en haut le côté pour regarder la vidéo.
 
 ### <ins>**Composantes et techniques:**</ins>  
 Haut-parleurs, drapeau, peluches, chandails, affiches, écrans, structure de bois, grille métallique, marchandises( porte-clé, T-shirt, gobelet, bracelets), lumière en forme de cercle.  
