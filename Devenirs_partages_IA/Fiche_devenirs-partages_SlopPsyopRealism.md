@@ -50,10 +50,10 @@ Haut-parleurs, drapeau, peluches, chandails, affiches, écrans, structure de boi
 ### <ins>**Éléments nécessaires à la mise en exposition:**</ins>  
 Câbles, sacs pouf, Télévision, lumière projeté, écouteurs, installation vidéos, chariot de rangement,   
 <img src="medias/sloppsyop_vue_arriere.jpg" alt="Image" style="width:60%; height:auto;"> <img src="medias/sloppsyo_vue_TV_arriere.jpg" alt="Image" style="width:30%; height:auto;">  
-> Vue de la présentation joué en arrière du mur de l'oeuvre.
+> Vue de la présentation joué a l'arrière du mur de l'oeuvre.
 
 ### <ins>**Éxpérience vécue:**</ins>  
-l'intéracteur est distrait par de nombreux médias. Il y a beaucoup d'éléments divers sur l'oeuvre. L'utilisateur est porté à regarder partout, à écouter et regarde les courtes vidéos.
+l'intéracteur est distrait par de nombreux médias. Il y a beaucoup d'éléments divers sur l'oeuvre. L'utilisateur est porté à regarder partout, à écouter et regarder les courtes vidéos.
 
 ### <ins>**Ce qui m'a plu ou donné des idées**</ins>  
 Les cercles de couleur lumineux me font penser à la roue de couleur dans les programmes de dessins.
