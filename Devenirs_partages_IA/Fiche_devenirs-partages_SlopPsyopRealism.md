@@ -31,6 +31,7 @@ L'oeuvre à beaucoup de contenu qui attire tous l'attention, il y a Des images, 
 ### <ins>**Type d'installation:**</ins>  
 Immersive, il y a des vidéos et du son qu'on peut entendre des haut-parleurs.  
 <img src="medias/oeuvre_slop_vue_ensemble.jpg" alt="Image" style="width:50%; height:auto;">  
+> Vue d'ensemble de l'oeuvre
 
 
 ### <ins>**Mise en espace:**</ins>  
