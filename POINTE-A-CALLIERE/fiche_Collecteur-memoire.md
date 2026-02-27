@@ -3,7 +3,7 @@
 > Texte de présentation
 
 ## <ins>**Lieu de mise en exposition:**</ins>  
-Pointe-à-Callière  
+Pointe-à-Callière<br>
 <img src="medias/edifice_photo_selfie.jpg" alt="Image" style="width:40%; height:auto;">  
 > moi devant l'entrée de l'édifice où l'exposition a lieu
 
