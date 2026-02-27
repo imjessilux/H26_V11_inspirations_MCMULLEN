@@ -14,7 +14,7 @@ permanente & intérieure
 15/02/2026
 
 ### <ins>**Titre de l'oeuvre:**</ins>  
-Collecteur de mémoires  
+Collecteur de mémoires  <br>
 <img src="medias/enssemble_mauve_debut.jpg" style="width:50%; height:auto;">  
 > Photo de vue d'ensemble de l'oeuvre
 
@@ -26,17 +26,17 @@ Moment Factory
 ### <ins>**Description de l'oeuvre:**</ins>  
 > Depuis mai 2017, les visiteurs peuvent cette fois emprunter une portion de l’égout collecteur sur une distance de 110 mètres. Ils sont appelés à vivre une expérience multisensorielle et réflexive grâce à l’installation Collecteur de mémoires, un ingénieux mécanisme de projections lumineuses sur les parois en pierre, dans un environnement sonore spécialement créé pour l’occasion.
 > Dans le souci de respecter l’esprit du lieu, la mise en valeur de cet impressionnant collecteur plonge le visiteur dans un monde souterrain quasi mystérieux qui le transporte au cœur d’un espace magique porteur d’histoire et chargé d’émotions. Du jamais vu à Montréal!  
-source: [Collecteur de mémoires](https://pacmusee.qc.ca/fr/expositions/detail/collecteur-de-memoires/)  
+source: [Collecteur de mémoires](https://pacmusee.qc.ca/fr/expositions/detail/collecteur-de-memoires/)  <br>
 <img src="medias/presentation_lumineuse_debut.jpg" alt="Image" style="width:50%; height:auto;">  
 > Texte de présentation de l'oeuvre
 
 ### <ins>**Type d'installation:**</ins>  
-Immersive et contemplative: Il faut se déplacer dans l'égout, observer les proejctions de lumières et il y a de la musique.   
+Immersive et contemplative: Il faut se déplacer dans l'égout, observer les proejctions de lumières et il y a de la musique.   <br>
 <img src="medias/enssemble_rose.jpg" alt="Image" style="width:50%; height:auto;">  
 > Vue d'ensemble de l'oeuvre
 
 ### <ins>**Fonction du dispositif multimédia:**</ins>  
- mise en valeur, les lumières et le son permettent de rendre la visite du site plus intéressantes physiquement et visuellement  
+ mise en valeur, les lumières et le son permettent de rendre la visite du site plus intéressantes physiquement et visuellement  <br>
 <img src="medias/composantes-projection.jpg" alt="Image" style="width:50%; height:auto;">  
 >
 
