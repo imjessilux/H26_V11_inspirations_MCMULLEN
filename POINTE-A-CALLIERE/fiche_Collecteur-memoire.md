@@ -55,9 +55,9 @@ lumières, bandes de lumières, haut parleurs, projecteurs: 4 composantes
 
 ### <ins>**Éléments nécessaires à la mise en exposition:**</ins>  
 L'égout, tableau lumineux pour le texte de présentation, passerelles en métal, rampes: 4 éléments  
-<img src="medias/composantes-projection.jpg" alt="Image" style="width:60%; height:auto;">  
-<img src="medias/presentation_lumineuse_millieu.jpg" alt="Image" style="width:40%; height:auto;">  
-<img src="medias/egout-debut.jpg" alt="Image" style="width:40%; height:auto;">  
+<img src="medias/composantes-projection.jpg" alt="Image" style="width:40%; height:auto;">  
+<img src="medias/presentation_lumineuse_millieu.jpg" alt="Image" style="width:60%; height:auto;">  
+<img src="medias/egout-debut.jpg" alt="Image" style="width:60%; height:auto;">  
 > eeweeeee
 
 ### <ins>**Éxpérience vécue:**</ins>  
