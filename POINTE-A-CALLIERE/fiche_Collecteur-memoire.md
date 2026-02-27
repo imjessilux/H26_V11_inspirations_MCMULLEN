@@ -1,4 +1,4 @@
-# xxxxxxxxxxxx
+# Exposition permanente
 <img src="medias/" alt="Image" style="width:40%; height:auto;">  
 > Affiche de l'exposition
 
@@ -40,18 +40,18 @@ Immersive et contemplative: Il faut se déplacer dans l'égout, observer les pro
 
 
 ### <ins>**Mise en espace:**</ins>  
-Texte qui permet de comprendre comment l'oeuvre ou le dispositif est mis en espace : dans quelle pièce, sur quel mur, quel est l'espace occupé, comment est-ce disposé... ?  
+Texte qui permet de comprendre comment l'oeuvre ou le dispositif est mis en espace : dans quelle pièce, sur quel mur, quel est l'espace occupé, comment est-ce disposé... ?  RENDRE LE CROQUIS EN DIGITALE POUR MEILLEUR RÉSOLUTION
 <img src="mediasxxxxxxx" alt="Image" style="width:30%; height:auto;">  
 > 
 
 ### <ins>**Composantes et techniques:**</ins>  
-lumières, bandes de lumières, haut parleurs, projecteurs
+lumières, bandes de lumières, haut parleurs, projecteurs: 4 composantes
 <img src="xxxxxxxxxxx" alt="Image" style="width:30%; height:auto;">
 <img src="xxxxxxxxxxxxx" alt="Image" style="width:30%; height:auto;">  
 > Plusieurs photo de vue de proche de l'oeuvre
 
 ### <ins>**Éléments nécessaires à la mise en exposition:**</ins>  
-tableau lumineux pour le texte de présentation, passerelles en métal, rampes
+L'égout, tableau lumineux pour le texte de présentation, passerelles en métal, rampes: 4 éléments
 <img src="medias/xxxxxxxxxxxxxx" alt="Image" style="width:60%; height:auto;"> <img src="medias/sloppsyo_vue_TV_arriere.jpg" alt="Image" style="width:30%; height:auto;">  
 > eeweeeee
 
