@@ -29,6 +29,8 @@ Moment Factory
 source: [Collecteur de mémoires](https://pacmusee.qc.ca/fr/expositions/detail/collecteur-de-memoires/)  <br>
 <img src="medias/presentation_lumineuse_debut.jpg" alt="Image" style="width:50%; height:auto;">  
 > Texte de présentation de l'oeuvre
+<img src="medias/plaque_site_historique.jpg" alt="Image" style="width:50%; height:auto;">  
+> Photo de la plaque de certification du site historique. L'endroit est un site historique
 
 ### <ins>**Type d'installation:**</ins>  
 Immersive et contemplative: Il faut se déplacer dans l'égout, observer les proejctions de lumières et il y a de la musique.   <br>
@@ -58,7 +60,7 @@ L'égout, tableau lumineux pour le texte de présentation, passerelles en métal
 <img src="medias/composantes-projection.jpg" alt="Image" style="width:40%; height:auto;">  
 <img src="medias/presentation_lumineuse_millieu.jpg" alt="Image" style="width:60%; height:auto;">  
 <img src="medias/egout-debut.jpg" alt="Image" style="width:60%; height:auto;">  
-> eeweeeee
+> Photos des projecteurs, du tableau de présentation et du début de l'égout
 
 ### <ins>**Éxpérience vécue:**</ins>  
 Il faut marcher sur la distance de l'égout, observer autour de soi, écouter la musique. La musique est très écho, l'écho donne l'impression que la musique est joué partout autour de soi tout au long de la distance. L'oeuvre est relaxante et calme. Il y a une projection à la fin et au début de l'égout.
