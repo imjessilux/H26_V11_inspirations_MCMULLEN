@@ -47,9 +47,9 @@ Texte qui permet de comprendre comment l'oeuvre ou le dispositif est mis en espa
 
 ### <ins>**Composantes et techniques:**</ins>  
 lumières, bandes de lumières, haut parleurs, projecteurs: 4 composantes  
-<img src="composantes-projection.jpg" alt="Image" style="width:30%; height:auto;">
-<img src="composantes-projection_proche.jpg" alt="Image" style="width:30%; height:auto;"> <br>
-<img src="egout-fin.jpg" alt="Image" style="width:30%; height:auto;">  <img src="egout-debut.jpg" alt="Image" style="width:30%; height:auto;">    
+<img src="medias/composantes-projection.jpg" alt="Image" style="width:30%; height:auto;">
+<img src="medias/composantes-projection_proche.jpg" alt="Image" style="width:30%; height:auto;"> <br>
+<img src="medias/egout-fin.jpg" alt="Image" style="width:30%; height:auto;">  <img src="medias/egout-debut.jpg" alt="Image" style="width:30%; height:auto;">    
 > Plusieurs photos des composantes du dispositif
 
 ### <ins>**Éléments nécessaires à la mise en exposition:**</ins>  
