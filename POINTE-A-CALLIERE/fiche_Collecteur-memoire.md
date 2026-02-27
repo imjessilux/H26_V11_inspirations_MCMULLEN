@@ -3,61 +3,68 @@
 > Affiche de l'exposition
 
 ## <ins>**Lieu de mise en exposition:**</ins>  
-U0000000 
+Pointe-à-Callière 
 <img src="medias/" alt="Image" style="width:40%; height:auto;">  
 > moi devant l'entrée de l'édifice où l'exposition a lieu
 
 ### <ins>**Type d'exposition:**</ins>  
-temporaire & intérieure
+permanente & intérieure
 
 ### <ins>**Date de visite:**</ins>  
 15/02/2026
 
 ### <ins>**Titre de l'oeuvre:**</ins>  
-LE collecteur de mémoirs 
+Collecteur de mémoires 
 <img src="medias/" style="width:50%; height:auto;">  
 > Photo de vue d'ensemble de l'oeuvre
 
 ### <ins>**nom de l'artiste:**</ins>
-xxxxxxxxxxxxxx
+Moment Factory
 
-### <ins>**Année de réalisation:**:</ins> xxxxxxxx
+### <ins>**Année de réalisation:**:</ins> 2017  
 
 ### <ins>**Description de l'oeuvre:**</ins>  
-xxxxxxxxxxxxx
+> Depuis mai 2017, les visiteurs peuvent cette fois emprunter une portion de l’égout collecteur sur une distance de 110 mètres. Ils sont appelés à vivre une expérience multisensorielle et réflexive grâce à l’installation Collecteur de mémoires, un ingénieux mécanisme de projections lumineuses sur les parois en pierre, dans un environnement sonore spécialement créé pour l’occasion.
+> Dans le souci de respecter l’esprit du lieu, la mise en valeur de cet impressionnant collecteur plonge le visiteur dans un monde souterrain quasi mystérieux qui le transporte au cœur d’un espace magique porteur d’histoire et chargé d’émotions. Du jamais vu à Montréal!
+source: [Collecteur de mémoires](https://pacmusee.qc.ca/fr/expositions/detail/collecteur-de-memoires/)
 <img src="medias/xxx" alt="Image" style="width:50%; height:auto;">  
-> Cartel de l'oeuvre
+> Texte de présentation de l'oeuvre
 
 ### <ins>**Type d'installation:**</ins>  
-xxxxxxxx  
+Immersive et contemplative: Il faut se déplacer dans l'égout, observer les proejctions de lumières et il y a de la musique.  
 <img src="medias/xxxxxxx" alt="Image" style="width:50%; height:auto;">  
 > Vue d'ensemble de l'oeuvre
 
+### <ins>**Fonction du dispositif multimédia:**</ins>  
+ mise en valeur, les lumières et le son permettent de rendre la visite du site plus intéressantes physiquement et visuellement
+
 
 ### <ins>**Mise en espace:**</ins>  
-xxxxxxxxxxx  
+Texte qui permet de comprendre comment l'oeuvre ou le dispositif est mis en espace : dans quelle pièce, sur quel mur, quel est l'espace occupé, comment est-ce disposé... ?  
 <img src="mediasxxxxxxx" alt="Image" style="width:30%; height:auto;">  
-> Voici une vue de haut de l'oeuvre. Le 1 sur le croquis désigne l'endroit où doit se situé le visiteur pour expérimenter l'oeuvre, de l'autre côté est une vidéo avec des écouteurs pour expliquer et présenter le processus artistique de l'oeuvre. Les 3 cercles du haut sont les 3 sacs pouf pour regarder la vidéo qui joue sur la télé en arrière du mur. Le carré rose à droite est le drapeau, le  rectangle mince en jaune est le mur où en bas c'est l'exposition de l'oeuvre et en haut le côté pour regarder la vidéo.
+> 
 
 ### <ins>**Composantes et techniques:**</ins>  
-xxxxxxxxxxxxxxx
+lumières, bandes de lumières, haut parleurs, projecteurs
 <img src="xxxxxxxxxxx" alt="Image" style="width:30%; height:auto;">
 <img src="xxxxxxxxxxxxx" alt="Image" style="width:30%; height:auto;">  
 > Plusieurs photo de vue de proche de l'oeuvre
 
 ### <ins>**Éléments nécessaires à la mise en exposition:**</ins>  
-xxxxxxxxxxxxx
+tableau lumineux pour le texte de présentation, passerelles en métal, rampes
 <img src="medias/xxxxxxxxxxxxxx" alt="Image" style="width:60%; height:auto;"> <img src="medias/sloppsyo_vue_TV_arriere.jpg" alt="Image" style="width:30%; height:auto;">  
-> Vue de la présentation joué a l'arrière du mur de l'oeuvre.
+> eeweeeee
 
 ### <ins>**Éxpérience vécue:**</ins>  
-xxxxxxxxxxx
+Il faut marcher sur la distance de l'égout, observer autour de soi, écouter la musique. La musique est très écho, l'écho donne l'impression que la musique est joué partout autour de soi tout au long de la distance. L'oeuvre est relaxante et calme. Il y a une projection à la fin et au début de l'égout.
 
 ### <ins>**Ce qui m'a plu ou donné des idées**</ins>  
-xxxxxxxxxxxxx
+La projections de lumières sur la parois de l'égout m'ont plu, ça met très bien en valeur la structure de l'égout et ses détails. Cela permet de mieux apprécier la visite du site. L'utilisation de l'écho est un très bonne idée, cela permet de donner une toute autre expérience où la musique est jouée partout autour de soi.
 
 ### <ins>**Aspect que je ne souhaiteriais pas retenir pour mes propres créations ou que je ferais autrement:**</ins>  
-xxxxxxxxxxxxxxxxx
+Les projections d'images au début et à la fin de l'égout, j'aurait éaglement mis des projections au long de l'égout. Ou j'aurais simplement enlever celle-ci et les mettres sur les parois à la place. Il ne faudrait pas trop d'images pour gêner la contemplation de l'égout mais au moins quelques une pour faire en sorte que les visiteurs s'arrêtent plus sur le chemin pour regarder.
 
 ### Références  
 Toutes les photos et croquis ont étés réalisés par Jessi McMullen
+[siteweb de l'oeuvre et exposition](https://pacmusee.qc.ca/fr/expositions/detail/collecteur-de-memoires/)
+[Siteweb de l'artiste: Moment Factory](https://momentfactory.com/fr/products/collecteur-de-memoires)
