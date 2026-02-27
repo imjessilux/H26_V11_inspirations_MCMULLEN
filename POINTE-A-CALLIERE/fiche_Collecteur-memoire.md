@@ -65,6 +65,6 @@ La projections de lumières sur la parois de l'égout m'ont plu, ça met très b
 Les projections d'images au début et à la fin de l'égout, j'aurait éaglement mis des projections au long de l'égout. Ou j'aurais simplement enlever celle-ci et les mettres sur les parois à la place. Il ne faudrait pas trop d'images pour gêner la contemplation de l'égout mais au moins quelques une pour faire en sorte que les visiteurs s'arrêtent plus sur le chemin pour regarder.
 
 ### Références  
-Toutes les photos et croquis ont étés réalisés par Jessi McMullen
-[siteweb de l'oeuvre et exposition](https://pacmusee.qc.ca/fr/expositions/detail/collecteur-de-memoires/)
-[Siteweb de l'artiste: Moment Factory](https://momentfactory.com/fr/products/collecteur-de-memoires)
+Toutes les photos et croquis ont étés réalisés par Jessi McMullen  
+[siteweb de l'oeuvre et exposition](https://pacmusee.qc.ca/fr/expositions/detail/collecteur-de-memoires/)  
+[Siteweb de l'artiste: Moment Factory](https://momentfactory.com/fr/products/collecteur-de-memoires)  
