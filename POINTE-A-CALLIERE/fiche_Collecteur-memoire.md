@@ -68,7 +68,7 @@ Il faut marcher sur la distance de l'égout, observer autour de soi, écouter la
 ### <ins>**Ce qui m'a plu ou donné des idées**</ins>  
 La projections de lumières sur la parois de l'égout m'ont plu, ça met très bien en valeur la structure de l'égout et ses détails. Cela permet de mieux apprécier la visite du site. L'utilisation de l'écho est une très bonne idée, cela permet de donner une toute autre expérience où la musique est jouée partout autour de soi.
 
-### <ins>**Aspect que je ne souhaiteriais pas retenir pour mes propres créations ou que je ferais autrement:**</ins>  
+### <ins>**Aspects que je ne souhaiteriais pas retenir pour mes propres créations ou que je ferais autrement:**</ins>  
 Les projections d'images au début et à la fin de l'égout, j'aurait éaglement mis des projections au long de l'égout. Ou j'aurais simplement enlever celle-ci et les mettres sur les parois à la place. Il ne faudrait pas trop d'images pour gêner la contemplation de l'égout mais au moins quelques une pour faire en sorte que les visiteurs s'arrêtent plus sur le chemin pour regarder.
 
 ### Références  
