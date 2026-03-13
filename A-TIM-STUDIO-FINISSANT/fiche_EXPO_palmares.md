@@ -81,7 +81,7 @@ Yannick Chamberland, Benjamin Ferland, Ryan Dufault, Walid Cheour
 
 
 ### Ce que vous ressentez en expérimentant chacune des installations,
-Après, je me suis amusé, j'ai encore envie de faire l'expérience malgré le fait de me sentir confus par rapport à ce que je devait faire pour intéragir avec. Ce n'était pas intuitif pour moi.
+Après, je me suis amusé, j'ai encore envie de faire l'expérience malgré le fait de me sentir confus par rapport à ce que je devait faire pour intéragir avec. Ce n'était pas intuitif pour moi et j'étais confus. 
 
 
 ### Nommer 3 cours du programme qui vous semblent incontournables pour avoir les
@@ -112,7 +112,6 @@ Ahmed Kaissoumi, Radhouane Kordan, Justin Montpetit, Thearylou Lach ,Jad Saloumi
 > Source de l'image: https://o-i-g-n-o-n.github.io/Mission-decollage/#/
 
 ### Ce que vous ressentez en expérimentant chacune des installations,
-avec justification (avant/après l'expérimentation)  
 Après je me sens dépassé par le nombre de comtrôle à manipuler pour jouer et le nombre de chose qu'il faut tenir compte lors de l'expérience.
 
 
@@ -142,7 +141,7 @@ Quand les yeux se croisent
 
 
 ### Ce que vous ressentez en expérimentant chacune des installations,
-avec justification (avant/après l'expérimentation)  
+Je me sens émerveillé, curieux, relaxé. La musique et les effets visuels m'apaise.
 
 
 ### Nommer 3 cours du programme qui vous semblent incontournables pour avoir les
@@ -168,7 +167,7 @@ Kristy , Amira
 > Source de l'image: 
 
 ### Ce que vous ressentez en expérimentant chacune des installations,
-avec justification (avant/après l'expérimentation)  
+
 
 
 ### Nommer 3 cours du programme qui vous semblent incontournables pour avoir les
