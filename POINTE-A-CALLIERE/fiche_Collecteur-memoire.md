@@ -43,7 +43,7 @@ Immersive et contemplative: Il faut se déplacer dans l'égout, observer les pro
 > Photo de la parois de l'égout avec des images et de la lumière projetées
 
 ### <ins>**Mise en espace:**</ins>  
-Texte qui permet de comprendre comment l'oeuvre ou le dispositif est mis en espace : dans quelle pièce, sur quel mur, quel est l'espace occupé, comment est-ce disposé... ?  Les dispositif de lumières sont placés le long du tunnel de l'égout sur les côtés de la passerrelle en métal avec les projecteurs d'effet lumineux (indiqué en vert sur le croquis). En jaune sur l'image marque le projecteur des images. Le site mesure 110m de longeur. [Information trouvées sur le site web](https://pacmusee.qc.ca/fr/expositions/detail/collecteur-de-memoires/)  
+Les dispositif de lumières sont placés le long du tunnel de l'égout sur les côtés de la passerrelle en métal avec les projecteurs d'effet lumineux (indiqué en vert sur le croquis). En jaune sur l'image marque le projecteur des images. Le site mesure 110m de longeur. [Information trouvées sur le site web](https://pacmusee.qc.ca/fr/expositions/detail/collecteur-de-memoires/)  
 <img src="medias/schema-croquis.jpeg" alt="Image" style="width:50%; height:auto;">  
 > Croquis vue de haut de l'oeuvre
 
