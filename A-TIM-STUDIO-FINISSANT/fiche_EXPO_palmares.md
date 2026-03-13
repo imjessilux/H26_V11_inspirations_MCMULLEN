@@ -11,7 +11,7 @@ photo à prendre
 
 ### Schéma de l'installation prévue  
 <img src="Medias/TERMINAL_schema3D.jpg" alt="Image" style="width:50%; height:auto;">  
-> Schméa 3D de l'installation prévu
+> Schéma 3D de l'installation prévu
 
 
 ### Ce que vous ressentez en expérimentant chacune des installations,  
@@ -51,7 +51,7 @@ Jad Saloumi
 
 ### Ce que vous ressentez en expérimentant chacune des installations,
 avec justification (avant/après l'expérimentation)  
-Apr`s je me sens dépassé par le nombre de comtrôle pour jouer
+Après je me sens dépassé par le nombre de comtrôle à manipuler pour jouer et le nombre de chose qu'il faut tenir compte lors de l'expérience.
 
 
 ### Nommer 3 cours du programme qui vous semblent incontournables pour avoir les
@@ -65,9 +65,9 @@ utilisée dans l'un des projets et que vous ne connaissiez pas.
 -----
 
 ### No ordre de préférence  
-
+1
 ### Titre du projet  
-
+Océan rouge
 ### Noms des créateurs et créatrices  
 
 ### Installation en cours (ou finale)  
@@ -103,7 +103,7 @@ Jad Saloumi
 ### Installation en cours (ou finale)  
 
 ### Schéma de l'installation prévue  
-<img src="Medias/OCEAN-ROUGE_schema3D.jpg" alt="Image" style="width:50%; height:auto;">  
+<img src="Medias/SYMBIOSE_schema3D.jpg" alt="Image" style="width:50%; height:auto;">  
 > Schéma 3D de l'installation
 ### Ce que vous ressentez en expérimentant chacune des installations,
 avec justification (avant/après l'expérimentation)  
@@ -127,7 +127,7 @@ utilisée dans l'un des projets et que vous ne connaissiez pas.
 ### Installation en cours (ou finale)  
 
 ### Schéma de l'installation prévue  
-<img src="Medias/OCEAN-ROUGE_schema3D.jpg" alt="Image" style="width:50%; height:auto;">  
+<img src="Medias/YEUX-CROISENT_schema3D.jpg" alt="Image" style="width:50%; height:auto;">  
 > Schéma 3D de l'installation
 ### Ce que vous ressentez en expérimentant chacune des installations,
 avec justification (avant/après l'expérimentation)  
