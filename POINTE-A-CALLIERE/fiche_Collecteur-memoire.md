@@ -1,10 +1,12 @@
 # Exposition permanente
 <img src="medias/presentation_lumineuse_debut.jpg" alt="Image" style="width:40%; height:auto;"> <img src="medias/presentation_lumineuse_millieu.jpg" alt="Image" style="width:40%; height:auto;">  
+
 > Texte de présentation
 
 ## <ins>**Lieu de mise en exposition:**</ins>  
 Pointe-à-Callière<br>
 <img src="medias/edifice_photo_selfie.jpg" alt="Image" style="width:40%; height:auto;">  
+
 > moi devant l'entrée de l'édifice où l'exposition a lieu
 
 ### <ins>**Type d'exposition:**</ins>  
@@ -16,6 +18,7 @@ permanente & intérieure
 ### <ins>**Titre de l'oeuvre:**</ins>  
 Collecteur de mémoires  <br>
 <img src="medias/enssemble_mauve_debut.jpg" style="width:50%; height:auto;">  
+
 > Photo de vue d'ensemble de l'oeuvre
 
 ### <ins>**nom de l'artiste:**</ins>
@@ -40,11 +43,13 @@ Immersive et contemplative: Il faut se déplacer dans l'égout, observer les pro
 ### <ins>**Fonction du dispositif multimédia:**</ins>  
  mise en valeur, les lumières et le son permettent de rendre la visite du site plus intéressantes physiquement et visuellement  <br>
 <img src="medias/composantes-projection.jpg" alt="Image" style="width:50%; height:auto;">  
+
 > Photo de la parois de l'égout avec des images et de la lumière projetées
 
 ### <ins>**Mise en espace:**</ins>  
 Les dispositif de lumières sont placés le long du tunnel de l'égout sur les côtés de la passerrelle en métal avec les projecteurs d'effet lumineux (indiqué en vert sur le croquis). En jaune sur l'image marque le projecteur des images. Le site mesure 110m de longeur. [Information trouvées sur le site web](https://pacmusee.qc.ca/fr/expositions/detail/collecteur-de-memoires/)  
 <img src="medias/schema-croquis.jpeg" alt="Image" style="width:50%; height:auto;">  
+
 > Croquis vue de haut de l'oeuvre
 
 ### <ins>**Composantes et techniques:**</ins>  
@@ -53,6 +58,7 @@ lumières, bandes de lumières, haut parleurs, projecteurs: 4 composantes
 <img src="medias/composantes-projection_proche.jpg" alt="Image" style="width:25%; height:auto;"> <br>
  <img src="medias/egout-debut.jpg" alt="Image" style="width:60%; height:auto;"> 
 <img src="medias/egout-fin.jpg" alt="Image" style="width:20%; height:auto;">    
+
 > Plusieurs photos des composantes du dispositif
 
 ### <ins>**Éléments nécessaires à la mise en exposition:**</ins>  
@@ -60,6 +66,7 @@ L'égout, tableau lumineux pour le texte de présentation, passerelles en métal
 <img src="medias/composantes-projection.jpg" alt="Image" style="width:40%; height:auto;">  
 <img src="medias/presentation_lumineuse_millieu.jpg" alt="Image" style="width:50%; height:auto;">  
 <img src="medias/egout-debut.jpg" alt="Image" style="width:50%; height:auto;">  
+
 > Photos des projecteurs, du tableau de présentation et du début de l'égout
 
 ### <ins>**Éxpérience vécue:**</ins>  
