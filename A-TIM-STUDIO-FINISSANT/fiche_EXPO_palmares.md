@@ -25,8 +25,8 @@ compétences pour créer ce genre de projet (voir la grille de cours du programm
 Audio 1, web ?, installation multimédia
 
 
-### Nommer et décrire une technique ou une composante technologique qui est
-utilisée dans l'un des projets et que vous ne connaissiez pas.  
+### Nommer et décrire une technique ou une composante technologique qui est utilisée dans le projet et que vous ne connaissiez pas.  
+
 
 -----
 
@@ -59,8 +59,7 @@ compétences pour créer ce genre de projet (voir la grille de cours du programm
 Objects intéractifs, Audio 2, Traitement audiovisuel
 
 
-### Nommer et décrire une technique ou une composante technologique qui est
-utilisée dans l'un des projets et que vous ne connaissiez pas.  
+### Nommer et décrire une technique ou une composante technologiqu equi est utilisée dans le projet et que vous ne connaissiez pas.  
 
 -----
 
@@ -80,12 +79,12 @@ avec justification (avant/après l'expérimentation)
 
 
 ### Nommer 3 cours du programme qui vous semblent incontournables pour avoir les
-compétences pour créer ce genre de projet (voir la grille de cours du programme)  
+Animation 2D, Modélisation 3D, Objets intéractifs
 
 
-### Nommer et décrire une technique ou une composante technologique qui est
-utilisée dans l'un des projets et que vous ne connaissiez pas.  
+### Nommer et décrire une technique ou une composante technologique qui est utilisée dans le projet et que vous ne connaissiez pas.  
 
+Module intéractif, une composante qui assure la communication entre un manche de manette de jeux et un ordinateur.
 -----
 
 ### No ordre de préférence  
@@ -94,27 +93,26 @@ utilisée dans l'un des projets et que vous ne connaissiez pas.
 Symbiose
 
 ### Noms des créateurs et créatrices  
-Ahmed Kaissoumi
-Radhouane Kordan
-Justin Montpetit
-Thearylou Lach
-Jad Saloumi
+Yannick Chamberland
+Benjamin Ferland
+Ryan Dufault
+Walid Cheour
 
 ### Installation en cours (ou finale)  
 
 ### Schéma de l'installation prévue  
-<img src="SYMBIOSE_schema3D.png" alt="Image" style="width:50%; height:auto;">  
+<img src="Medias/SYMBIOSE_schema3D.png" alt="Image" style="width:50%; height:auto;">  
 > Schéma 3D de l'installation
 ### Ce que vous ressentez en expérimentant chacune des installations,
-avec justification (avant/après l'expérimentation)  
+Après, je me suis amusé, j'ai encore envie de faire l'expérience malgré le fait de me sentir confus par rapport à ce que je devait faire pour intéragir avec. Ce n'était pas intuitif pour moi.
 
 
 ### Nommer 3 cours du programme qui vous semblent incontournables pour avoir les
-compétences pour créer ce genre de projet (voir la grille de cours du programme)  
+Modélisation 3D, Pogrammation intéractif, Réalité Mixte
 
 
-### Nommer et décrire une technique ou une composante technologique qui est
-utilisée dans l'un des projets et que vous ne connaissiez pas.  
+### Nommer et décrire une technique ou une composante technologique qui est utilisée dans le projet et que vous ne connaissiez pas.  
+Arduino, un objet de robotique qui sert à envoyer des données à un ordinateur.
 
 -----
 
@@ -137,32 +135,37 @@ avec justification (avant/après l'expérimentation)
 compétences pour créer ce genre de projet (voir la grille de cours du programme)  
 
 
-### Nommer et décrire une technique ou une composante technologique qui est
-utilisée dans l'un des projets et que vous ne connaissiez pas.  
+### Nommer et décrire une technique ou une composante technologique qui est utilisée dans le projet et que vous ne connaissiez pas.  
 
 -----
 
 ### No ordre de préférence  
-
+2
 ### Titre du projet  
-
+Arbre en face
 ### Noms des créateurs et créatrices  
+Alexandre Gendron  
+Mikael Arseneau  
+Mathieu Willett  
+Matis Ghariani  
+Rafael Angon Dube  
 
 ### Installation en cours (ou finale)  
 
 ### Schéma de l'installation prévue  
 <img src="Medias/ARBRE-FACE_schema3D.jpg" alt="Image" style="width:50%; height:auto;">  
 > Schéma 3D de l'installation
-### Ce que vous ressentez en expérimentant chacune des installations,
+### Ce que vous ressentez en expérimentant chacune des installations  
 avec justification (avant/après l'expérimentation)  
 
+Après je ressens de la joie et du rire. Je trouve l'installation amusant et coloré et originale.
 
 ### Nommer 3 cours du programme qui vous semblent incontournables pour avoir les
-compétences pour créer ce genre de projet (voir la grille de cours du programme)  
+Traitement visuel, AUdio 2, programmation
 
 
-### Nommer et décrire une technique ou une composante technologique qui est
-utilisée dans l'un des projets et que vous ne connaissiez pas.  
+### Nommer et décrire une technique ou une composante technologique qui est utilisée dans le projet et que vous ne connaissiez pas.  
+Un lidar, une composante qui produit un rayon laser qui tourne pour capter les mouvements et les transmettrent à un ordinateur.
 
 
 
