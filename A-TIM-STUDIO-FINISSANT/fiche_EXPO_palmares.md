@@ -12,7 +12,7 @@ Rafael Angon Dube
 
 ### Schéma de l'installation prévue  
 <img src="Medias/ARBRE-FACE_schema3D.jpg" alt="Image" style="width:50%; height:auto;">  
-> Schéma 3D de l'installation  
+>Schéma 3D de l'installation  
 > Source de l'image: https://mammouths.github.io/projet/#/
 
 ### Ce que vous ressentez en expérimentant chacune des installations  
@@ -42,6 +42,7 @@ photo à prendre
 
 ### Schéma de l'installation prévue  
 <img src="Medias/TERMINAL_schema3D.jpg" alt="Image" style="width:50%; height:auto;">  
+
 > Schéma 3D de l'installation prévu
 > Source de l'image: https://pythons-5.github.io/Terminal/#/
 
