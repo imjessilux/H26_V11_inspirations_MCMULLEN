@@ -70,6 +70,7 @@ Vue d'ensemble de l'oeuvre ou du dispositif <br>
 >
 
 ### <ins>**Éxpérience vécue:**</ins>  
+Je me sens amusé, j'aime comment l'intéractivité est faite, le visuel est beau. Il est intuitif et plaisant. L'intention du project, selon ce qui est écrit sur le <a href="https://deux-intelligence.github.io/deux-neurones/#/">site</a> , est clair lors de l'expérimentation de l'installation. Je comprend bien que l'installation sensibilise à propos de faire un ou des actions pour les êtres vivant de la terre et la Terre elle-même.
 
 ### <ins>**Ce qui m'a plu ou donné des idées**</ins>  
 
