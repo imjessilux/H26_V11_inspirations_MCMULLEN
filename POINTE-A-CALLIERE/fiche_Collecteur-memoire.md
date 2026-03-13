@@ -34,7 +34,7 @@ source: [Collecteur de mémoires](https://pacmusee.qc.ca/fr/expositions/detail/c
 > 
 > Texte de présentation de l'oeuvre
 <img src="medias/plaque_site_historique.jpg" alt="Image" style="width:50%; height:auto;">
-> 
+
 > Photo de la plaque de certification du site historique. L'endroit est un site historique
 
 ### <ins>**Type d'installation:**</ins>  
