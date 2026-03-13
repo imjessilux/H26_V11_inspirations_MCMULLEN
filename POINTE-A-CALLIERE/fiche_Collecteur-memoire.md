@@ -30,14 +30,17 @@ Moment Factory
 > Depuis mai 2017, les visiteurs peuvent cette fois emprunter une portion de l’égout collecteur sur une distance de 110 mètres. Ils sont appelés à vivre une expérience multisensorielle et réflexive grâce à l’installation Collecteur de mémoires, un ingénieux mécanisme de projections lumineuses sur les parois en pierre, dans un environnement sonore spécialement créé pour l’occasion.
 > Dans le souci de respecter l’esprit du lieu, la mise en valeur de cet impressionnant collecteur plonge le visiteur dans un monde souterrain quasi mystérieux qui le transporte au cœur d’un espace magique porteur d’histoire et chargé d’émotions. Du jamais vu à Montréal!  
 source: [Collecteur de mémoires](https://pacmusee.qc.ca/fr/expositions/detail/collecteur-de-memoires/)  <br>
-<img src="medias/presentation_lumineuse_debut.jpg" alt="Image" style="width:50%; height:auto;">  
+<img src="medias/presentation_lumineuse_debut.jpg" alt="Image" style="width:50%; height:auto;">
+> 
 > Texte de présentation de l'oeuvre
-<img src="medias/plaque_site_historique.jpg" alt="Image" style="width:50%; height:auto;">  
+<img src="medias/plaque_site_historique.jpg" alt="Image" style="width:50%; height:auto;">
+> 
 > Photo de la plaque de certification du site historique. L'endroit est un site historique
 
 ### <ins>**Type d'installation:**</ins>  
 Immersive et contemplative: Il faut se déplacer dans l'égout, observer les proejctions de lumières et il y a de la musique.   <br>
 <img src="medias/enssemble_rose.jpg" alt="Image" style="width:50%; height:auto;">  
+
 > Vue d'ensemble de l'oeuvre
 
 ### <ins>**Fonction du dispositif multimédia:**</ins>  
