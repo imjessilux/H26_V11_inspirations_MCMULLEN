@@ -151,7 +151,7 @@ utilisée dans l'un des projets et que vous ne connaissiez pas.
 ### Installation en cours (ou finale)  
 
 ### Schéma de l'installation prévue  
-<img src="Medias/OCEAN-ROUGE_schema3D.jpg" alt="Image" style="width:50%; height:auto;">  
+<img src="Medias/ARBRE-FACE_schema3D.jpg" alt="Image" style="width:50%; height:auto;">  
 > Schéma 3D de l'installation
 ### Ce que vous ressentez en expérimentant chacune des installations,
 avec justification (avant/après l'expérimentation)  
@@ -164,35 +164,5 @@ compétences pour créer ce genre de projet (voir la grille de cours du programm
 ### Nommer et décrire une technique ou une composante technologique qui est
 utilisée dans l'un des projets et que vous ne connaissiez pas.  
 
------
-
-### No ordre de préférence  
-
-### Titre du projet  
-
-### Noms des créateurs et créatrices  
-
-### Installation en cours (ou finale)  
-
-### Schéma de l'installation prévue  
-<img src="Medias/OCEAN-ROUGE_schema3D.jpg" alt="Image" style="width:50%; height:auto;">  
-> Schéma 3D de l'installation
-### Ce que vous ressentez en expérimentant chacune des installations,
-avec justification (avant/après l'expérimentation)  
-
-
-### Nommer 3 cours du programme qui vous semblent incontournables pour avoir les
-compétences pour créer ce genre de projet (voir la grille de cours du programme)  
-
-
-### Nommer et décrire une technique ou une composante technologique qui est
-utilisée dans l'un des projets et que vous ne connaissiez pas.  
-
------
-
-### Nommer et décrire une technique ou une composante technologique qui est
-utilisée dans l'un des projets et que vous ne connaissiez pas.\
-
------
 
 
