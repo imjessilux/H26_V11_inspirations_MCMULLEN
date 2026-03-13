@@ -21,7 +21,7 @@ Après je sens mon coeur battre vie à cause de la concentration que l'installat
 
 
 ### Nommer 3 cours du programme qui vous semblent incontournables pour avoir les
-compétences pour créer ce genre de projet (voir la grille de cours du programme)  
+
 Audio 1, web ?, installation multimédia
 
 
