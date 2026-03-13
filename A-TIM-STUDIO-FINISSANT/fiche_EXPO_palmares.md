@@ -12,7 +12,8 @@ Rafael Angon Dube
 
 ### Schéma de l'installation prévue  
 <img src="Medias/ARBRE-FACE_schema3D.jpg" alt="Image" style="width:50%; height:auto;">  
->Schéma 3D de l'installation  
+
+> Schéma 3D de l'installation  
 > Source de l'image: https://mammouths.github.io/projet/#/
 
 ### Ce que vous ressentez en expérimentant chacune des installations  
@@ -74,6 +75,7 @@ Yannick Chamberland, Benjamin Ferland, Ryan Dufault, Walid Cheour
 
 ### Schéma de l'installation prévue  
 <img src="Medias/SYMBIOSE_schema3D.png" alt="Image" style="width:50%; height:auto;">  
+
 > Schéma 3D de l'installation  
 > Source de l'image: https://les-chimistes.github.io/symbiose/#/
 
@@ -105,6 +107,7 @@ Ahmed Kaissoumi, Radhouane Kordan, Justin Montpetit, Thearylou Lach ,Jad Saloumi
 
 ### Schéma de l'installation prévue  
 <img src="Medias/MISSION-decollage_schema3D.jpg" alt="Image" style="width:50%; height:auto;">  
+
 > Schéma 3D de l'installation  
 > Source de l'image: https://o-i-g-n-o-n.github.io/Mission-decollage/#/
 
@@ -133,6 +136,7 @@ Quand les yeux se croisent
 
 ### Schéma de l'installation prévue  
 <img src="Medias/YEUX-CROISENT_schema3D.jpg" alt="Image" style="width:50%; height:auto;">  
+
 > Schéma 3D de l'installation  
 > Source de l'image: https://emersiaa.github.io/Quand-les-yeux-se-croisent/#/
 
@@ -159,6 +163,7 @@ Kristy , Amira
 
 ### Schéma de l'installation prévue  
 <img src="Medias/OCEAN-ROUGE_schema3D.jpg" alt="Image" style="width:50%; height:auto;">  
+
 > Schéma 3D de l'installation  
 > Source de l'image: 
 
