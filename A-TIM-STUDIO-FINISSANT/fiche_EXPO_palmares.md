@@ -16,7 +16,7 @@ Rafael Angon Dube
 > Schéma 3D de l'installation  
 > Source de l'image: https://mammouths.github.io/projet/#/
 
-### Ce que vous ressentez en expérimentant chacune des installations  
+### Ce que vous ressentez en expérimentant l'installations  
 avec justification (avant/après l'expérimentation)  
 
 Après je ressens de la joie et du rire. Je trouve l'installation amusant et coloré et originale.
@@ -47,8 +47,7 @@ photo à prendre
 > Schéma 3D de l'installation prévu
 > Source de l'image: https://pythons-5.github.io/Terminal/#/
 
-
-### Ce que vous ressentez en expérimentant chacune des installations  
+### Ce que vous ressentez en expérimentant l'installations  
 Après je sens mon coeur battre vie à cause de la concentration que l'installation demande et la vitesse auquel il faut réagir 
 
 
@@ -80,7 +79,7 @@ Yannick Chamberland, Benjamin Ferland, Ryan Dufault, Walid Cheour
 > Source de l'image: https://les-chimistes.github.io/symbiose/#/
 
 
-### Ce que vous ressentez en expérimentant chacune des installations,
+### Ce que vous ressentez en expérimentant l'installations  
 Après, je me suis amusé, j'ai encore envie de faire l'expérience malgré le fait de me sentir confus par rapport à ce que je devait faire pour intéragir avec. Ce n'était pas intuitif pour moi et j'étais confus. 
 
 
@@ -111,7 +110,7 @@ Ahmed Kaissoumi, Radhouane Kordan, Justin Montpetit, Thearylou Lach ,Jad Saloumi
 > Schéma 3D de l'installation  
 > Source de l'image: https://o-i-g-n-o-n.github.io/Mission-decollage/#/
 
-### Ce que vous ressentez en expérimentant chacune des installations,
+### Ce que vous ressentez en expérimentant l'installations  
 Après je me sens dépassé par le nombre de comtrôle à manipuler pour jouer et le nombre de chose qu'il faut tenir compte lors de l'expérience.
 
 
@@ -140,7 +139,7 @@ Quand les yeux se croisent
 > Source de l'image: https://emersiaa.github.io/Quand-les-yeux-se-croisent/#/
 
 
-### Ce que vous ressentez en expérimentant chacune des installations,
+### Ce que vous ressentez en expérimentant l'installations  
 Je me sens émerveillé, curieux, relaxé. La musique et les effets visuels m'apaise.
 
 
@@ -166,7 +165,7 @@ Kristy , Amira
 > Schéma 3D de l'installation  
 > Source de l'image: 
 
-### Ce que vous ressentez en expérimentant chacune des installations,
+### Ce que vous ressentez en expérimentant l'installations  
 
 
 
