@@ -91,7 +91,7 @@ utilisée dans l'un des projets et que vous ne connaissiez pas.
 ### No ordre de préférence  
 
 ### Titre du projet  
-Mission Décollage
+Symbiose
 
 ### Noms des créateurs et créatrices  
 Ahmed Kaissoumi
@@ -103,7 +103,7 @@ Jad Saloumi
 ### Installation en cours (ou finale)  
 
 ### Schéma de l'installation prévue  
-<img src="Medias/SYMBIOSE_schema3D.jpg" alt="Image" style="width:50%; height:auto;">  
+<img src="SYMBIOSE_schema3D.png" alt="Image" style="width:50%; height:auto;">  
 > Schéma 3D de l'installation
 ### Ce que vous ressentez en expérimentant chacune des installations,
 avec justification (avant/après l'expérimentation)  
@@ -121,7 +121,7 @@ utilisée dans l'un des projets et que vous ne connaissiez pas.
 ### No ordre de préférence  
 
 ### Titre du projet  
-
+Quand les yeux se croisent
 ### Noms des créateurs et créatrices  
 
 ### Installation en cours (ou finale)  
