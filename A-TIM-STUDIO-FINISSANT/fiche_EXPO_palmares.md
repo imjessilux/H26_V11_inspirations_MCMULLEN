@@ -125,11 +125,12 @@ Je me sens émerveillé, curieux, relaxé. La musique et les effets visuels m'ap
 
 -----
 
-### Nommer 3 cours du programme qui vous semblent incontournables pour avoir les
+### Nommer 3 cours du programme qui vous semblent incontournables pour réaliser un projet similaire   
 Traitement visuel, AUdio 2, programmation intéractive  
 Ces trois cours sont nécessaires afin de réaliser un projet tel que <a href="https://mammouths.github.io/projet/#/"> Arbre en face</a>
 
 
 ### Nommer et décrire une technique ou une composante technologique qui est utilisée dans le projet "Arbre en face"  et que vous ne connaissiez pas.  
 Un lidar, une composante qui produit un rayon laser qui tourne pour capter les mouvements et les transmettrent à un ordinateur.
+Information trouvé aux côtés des artistes de l'oeuvre "Arbre en face"
 
