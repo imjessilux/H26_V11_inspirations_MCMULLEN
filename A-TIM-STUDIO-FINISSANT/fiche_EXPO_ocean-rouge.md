@@ -1,13 +1,14 @@
 # Réseau vivant
 Affiche de l'exposition
 
-<img src="medias/" alt="Image" style="width:40%; height:auto;"> <img src="medias/affiche_expo_reseau-vivant.jpg" alt="Image" style="width:40%; height:auto;">  
+<img src="medias/
+affiche_expo_reseau-vivant.jpg" alt="Image" style="width:40%; height:auto;"> <img src="medias/affiche_expo_reseau-vivant.jpg" alt="Image" style="width:40%; height:auto;">  
 
 > Affiche de l'exposition 
 
 ## <ins>**Lieu de mise en exposition:**</ins>  
 e<br> 
-<img src="medias/" alt="Image" style="width:40%; height:auto;">  
+<img src="medias/moi_devant_college-momo.jpg" alt="Image" style="width:40%; height:auto;">  
 
 > moi devant l'entrée de l'édifice où l'exposition a lieu: <a href="https://www.cmontmorency.qc.ca/"> Montmorency</a>
 
@@ -19,7 +20,7 @@ Temporaire & intérieure
 
 ### <ins>**Titre de l'oeuvre: Océan rouge**</ins>  
 Vue d'ensemble de l'oeuvre ou du dispositif <br>
-<img src="medias/oreanR_vue_cote.jpg" style="width:50%; height:auto;">  
+<img src="Medias/oreanR_vue_cote.jpg" style="width:50%; height:auto;">  
 
 > Photo de vue d'ensemble de l'oeuvre
 
@@ -34,26 +35,26 @@ Nous souhaitons faire ressentir aux interacteurs de notre projet la sensation de
 Le son du projet soutiendra ce message à travers une sonorité sombre, créant ainsi un sentiment d’urgence incitant l’interacteur à agir pour sauver un espace agonisant.
 > Description prise sur le siteweb Source: https://deux-intelligence.github.io/deux-neurones/#/
 > <br>
-<img src="medias/oceanR_cartel.jpg" alt="Image" style="width:50%; height:auto;">
+<img src="Medias/oceanR_cartel.jpg" alt="Image" style="width:50%; height:auto;">
 
 > cartel de l'oeuvre
 
 ### <ins>**Type d'installation:**</ins>  
 Intéractive, il est possible d'intéragir avec l'installation    <br>
-<img src="medias/oceanR_vue_proche_devant.jpg" alt="Image" style="width:50%; height:auto;">  
+<img src="Medias/oceanR_vue_proche_devant.jpg" alt="Image" style="width:50%; height:auto;">  
 
 > Photo de l'installation lorsqu'on intéragis avec celle-ci
 
 
 ### <ins>**Mise en espace:**</ins>  
 L'oeuvre est positionné à-cotée sur un mur. Le noir est l'écran, les ronds la manette pour intéragir et le rectangle du haut est le mur.
-<img src="medias/croquis_mise-espace.jpg" alt="Image" style="width:50%; height:auto;">  
+<img src="Medias/croquis_mise-espace.jpg" alt="Image" style="width:50%; height:auto;">  
 
 > Croquis vue de haut de l'oeuvre
 
 ### <ins>**Composantes et techniques:**</ins>  
 Boite d'arcade, moniteur, ordinateur, haut-ârleur, manette de jeux
-<img src="medias/oreanR_vue_cote.jpg" alt="Image" style="width:30%; height:auto;">
+<img src="Medias/oreanR_vue_cote.jpg" alt="Image" style="width:30%; height:auto;">
 
 > Photo de l'oeuvre
 <img src="https://www.cdiscount.com/pdt2/3/2/7/1/700x700/vbe7062019874327/rw/vbestlife-joystick-de-vol-d-arcade-joystick-de-vol.jpg" alt="Image" style="width:25%; height:auto;"> 
@@ -64,7 +65,7 @@ Boite d'arcade, moniteur, ordinateur, haut-ârleur, manette de jeux
 
 ### <ins>**Éléments nécessaires à la mise en exposition:**</ins>  
 Stand, câble d'alimentation et lumìeres
-<img src="medias/oreanR_vue_cote.jpg" alt="Image" style="width:40%; height:auto;">  
+<img src="Medias/oreanR_vue_cote.jpg" alt="Image" style="width:40%; height:auto;">  
 
 > Photo de l'oeuvre
 
