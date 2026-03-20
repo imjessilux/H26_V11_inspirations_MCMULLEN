@@ -9,6 +9,9 @@ Matis Ghariani
 Rafael Angon Dube  
 
 ### Installation en cours (ou finale)  
+<img src="Medias/arbre-face_vue_ensemble.jpg" alt="Image" style="width:50%; height:auto;">  
+
+> Photo de l'oeuvre "Arbre en face" prise par Jessi McMullen
 
 ### Schéma de l'installation prévue  
 <img src="Medias/ARBRE-FACE_schema3D.jpg" alt="Image" style="width:50%; height:auto;">  
@@ -17,16 +20,7 @@ Rafael Angon Dube
 > Source de l'image: https://mammouths.github.io/projet/#/
 
 ### Ce que vous ressentez en expérimentant l'installations  
-avec justification (avant/après l'expérimentation)  
-
 Après je ressens de la joie et du rire. Je trouve l'installation amusant et coloré et originale.
-
-### Nommer 3 cours du programme qui vous semblent incontournables pour avoir les
-Traitement visuel, AUdio 2, programmation
-
-
-### Nommer et décrire une technique ou une composante technologique qui est utilisée dans le projet et que vous ne connaissiez pas.  
-Un lidar, une composante qui produit un rayon laser qui tourne pour capter les mouvements et les transmettrent à un ordinateur.
 
 -----
 
@@ -39,7 +33,9 @@ Terminal
 Émeryk Bélisle, Elie Daher, Ting Yung Lu Terry, Dana Saavedra-Torrano, Mégane Ranger
 
 ### Installation en cours (ou finale)  
-photo à prendre
+<img src="terminal_vue_ensemble.jpg" alt="Image" style="width:50%; height:auto;">  
+
+> Photo de l'oeuvre "Terminal" prise par Jessi McMullen
 
 ### Schéma de l'installation prévue  
 <img src="Medias/TERMINAL_schema3D.jpg" alt="Image" style="width:50%; height:auto;">  
@@ -49,15 +45,6 @@ photo à prendre
 
 ### Ce que vous ressentez en expérimentant l'installations  
 Après je sens mon coeur battre vie à cause de la concentration que l'installation demande et la vitesse auquel il faut réagir 
-
-
-### Nommer 3 cours du programme qui vous semblent incontournables pour avoir les
-
-Audio 1, web ?, installation multimédia
-
-
-### Nommer et décrire une technique ou une composante technologique qui est utilisée dans le projet et que vous ne connaissiez pas.  
-
 
 -----
 
@@ -71,6 +58,9 @@ Symbiose
 Yannick Chamberland, Benjamin Ferland, Ryan Dufault, Walid Cheour
 
 ### Installation en cours (ou finale)  
+<img src="Medias/symbiose_vue_ensemble.jpg" alt="Image" style="width:50%; height:auto;">  
+
+> Photo de l'oeuvre "Symbiose" prise par Jessi McMullen
 
 ### Schéma de l'installation prévue  
 <img src="Medias/SYMBIOSE_schema3D.png" alt="Image" style="width:50%; height:auto;">  
@@ -81,14 +71,6 @@ Yannick Chamberland, Benjamin Ferland, Ryan Dufault, Walid Cheour
 
 ### Ce que vous ressentez en expérimentant l'installations  
 Après, je me suis amusé, j'ai encore envie de faire l'expérience malgré le fait de me sentir confus par rapport à ce que je devait faire pour intéragir avec. Ce n'était pas intuitif pour moi et j'étais confus. 
-
-
-### Nommer 3 cours du programme qui vous semblent incontournables pour avoir les
-Modélisation 3D, Pogrammation intéractif, Réalité Mixte
-
-
-### Nommer et décrire une technique ou une composante technologique qui est utilisée dans le projet et que vous ne connaissiez pas.  
-Arduino, un objet de robotique qui sert à envoyer des données à un ordinateur.
 
 -----
 
@@ -103,6 +85,9 @@ Mission Décollage
 Ahmed Kaissoumi, Radhouane Kordan, Justin Montpetit, Thearylou Lach ,Jad Saloumi
 
 ### Installation en cours (ou finale)  
+<img src="Medias/decollage_vue_ecran.jpg" alt="Image" style="width:50%; height:auto;">  
+
+> Photo de l'oeuvre "O.I.G.N.O.N. mission décollage" prise par Jessi McMullen
 
 ### Schéma de l'installation prévue  
 <img src="Medias/MISSION-decollage_schema3D.jpg" alt="Image" style="width:50%; height:auto;">  
@@ -112,14 +97,6 @@ Ahmed Kaissoumi, Radhouane Kordan, Justin Montpetit, Thearylou Lach ,Jad Saloumi
 
 ### Ce que vous ressentez en expérimentant l'installations  
 Après je me sens dépassé par le nombre de comtrôle à manipuler pour jouer et le nombre de chose qu'il faut tenir compte lors de l'expérience.
-
-
-### Nommer 3 cours du programme qui vous semblent incontournables pour avoir les
-compétences pour créer ce genre de projet (voir la grille de cours du programme)  
-Objects intéractifs, Audio 2, Traitement audiovisuel
-
-
-### Nommer et décrire une technique ou une composante technologiqu equi est utilisée dans le projet et que vous ne connaissiez pas.  
 
 -----
 
@@ -131,6 +108,9 @@ Quand les yeux se croisent
 ### Noms des créateurs et créatrices  
 
 ### Installation en cours (ou finale)  
+<img src="Medias/yeuxCroisent_vue_devant.jpg" alt="Image" style="width:50%; height:auto;">  
+
+> Photo de l'oeuvre "Quand les yeux se croisent" par Jessi McMullen
 
 ### Schéma de l'installation prévue  
 <img src="Medias/YEUX-CROISENT_schema3D.jpg" alt="Image" style="width:50%; height:auto;">  
@@ -143,40 +123,13 @@ Quand les yeux se croisent
 Je me sens émerveillé, curieux, relaxé. La musique et les effets visuels m'apaise.
 
 
-### Nommer 3 cours du programme qui vous semblent incontournables pour avoir les
-compétences pour créer ce genre de projet (voir la grille de cours du programme)  
-
-
-### Nommer et décrire une technique ou une composante technologique qui est utilisée dans le projet et que vous ne connaissiez pas.  
-
 -----
 
-### No ordre de préférence  
-1
-### Titre du projet  
-Océan rouge
-### Noms des créateurs et créatrices  
-Kristy , Amira
-### Installation en cours (ou finale)  
-
-### Schéma de l'installation prévue  
-<img src="Medias/OCEAN-ROUGE_schema3D.jpg" alt="Image" style="width:50%; height:auto;">  
-
-> Schéma 3D de l'installation  
-> Source de l'image: 
-
-### Ce que vous ressentez en expérimentant l'installations  
-
-
-
 ### Nommer 3 cours du programme qui vous semblent incontournables pour avoir les
-Animation 2D, Modélisation 3D, Objets intéractifs
+Traitement visuel, AUdio 2, programmation intéractive  
+Ces trois cours sont nécessaires afin de réaliser un projet tel que <a href="https://mammouths.github.io/projet/#/"> Arbre en face</a>
 
 
-### Nommer et décrire une technique ou une composante technologique qui est utilisée dans le projet et que vous ne connaissiez pas.  
-
-Module intéractif, une composante qui assure la communication entre un manche de manette de jeux et un ordinateur.
-
-
-
+### Nommer et décrire une technique ou une composante technologique qui est utilisée dans le projet "Arbre en face"  et que vous ne connaissiez pas.  
+Un lidar, une composante qui produit un rayon laser qui tourne pour capter les mouvements et les transmettrent à un ordinateur.
 
