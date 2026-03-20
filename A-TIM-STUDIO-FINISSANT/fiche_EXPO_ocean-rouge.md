@@ -1,14 +1,13 @@
 # Réseau vivant
 Affiche de l'exposition
 
-<img src="medias/
-affiche_expo_reseau-vivant.jpg" alt="Image" style="width:40%; height:auto;"> <img src="medias/affiche_expo_reseau-vivant.jpg" alt="Image" style="width:40%; height:auto;">  
+<img src="Medias/affiche_expo_reseau-vivant.jpg" alt="Image" style="width:40%; height:auto;">  
 
 > Affiche de l'exposition 
 
 ## <ins>**Lieu de mise en exposition:**</ins>  
-e<br> 
-<img src="medias/moi_devant_college-momo.jpg" alt="Image" style="width:40%; height:auto;">  
+
+<img src="Medias/moi_devant_college-momo.jpg" alt="Image" style="width:40%; height:auto;">  
 
 > moi devant l'entrée de l'édifice où l'exposition a lieu: <a href="https://www.cmontmorency.qc.ca/"> Montmorency</a>
 
@@ -48,12 +47,12 @@ Intéractive, il est possible d'intéragir avec l'installation    <br>
 
 ### <ins>**Mise en espace:**</ins>  
 L'oeuvre est positionné à-cotée sur un mur. Le noir est l'écran, les ronds la manette pour intéragir et le rectangle du haut est le mur.
-<img src="Medias/croquis_mise-espace.jpg" alt="Image" style="width:50%; height:auto;">  
+<img src="Medias/croquis_mise-espace.jpg" alt="Image" style="width:80%; height:auto;">  
 
 > Croquis vue de haut de l'oeuvre
 
 ### <ins>**Composantes et techniques:**</ins>  
-Boite d'arcade, moniteur, ordinateur, haut-ârleur, manette de jeux
+Boite d'arcade, moniteur, ordinateur, haut-ârleur, manette de jeux  
 <img src="Medias/oreanR_vue_cote.jpg" alt="Image" style="width:30%; height:auto;">
 
 > Photo de l'oeuvre
@@ -64,7 +63,7 @@ Boite d'arcade, moniteur, ordinateur, haut-ârleur, manette de jeux
 > Plusieurs photos des composantes du dispositif
 
 ### <ins>**Éléments nécessaires à la mise en exposition:**</ins>  
-Stand, câble d'alimentation et lumìeres
+Stand, câble d'alimentation et lumìeres  
 <img src="Medias/oreanR_vue_cote.jpg" alt="Image" style="width:40%; height:auto;">  
 
 > Photo de l'oeuvre
