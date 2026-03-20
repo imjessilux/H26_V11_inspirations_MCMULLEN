@@ -81,4 +81,5 @@ J'aime beaucoup la fausse effet de 2D afin de donner la possibilité au joueur d
 La limite de temps à être sans aspirer d'objet est trop rapide et rend le jeux difficile. Dans le jeux, le mouvement de l'aspirateur est également trop rapide et il est difficile de bien manipuler la manette pour compenser cette difficulté.
 
 ### Références  
-Toutes photos sauf avec indication du contraire, ont été prise par Jessi McMullen.
+Toutes photos sauf avec indication du contraire, ont été prise par Jessi McMullen.  
+Siteweb de l'exposition "Réseau vivant": <a href="https://tim-montmorency.com/2026/">https://tim-montmorency.com/2026/</a>
