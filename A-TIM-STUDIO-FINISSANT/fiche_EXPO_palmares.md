@@ -33,7 +33,7 @@ Terminal
 Émeryk Bélisle, Elie Daher, Ting Yung Lu Terry, Dana Saavedra-Torrano, Mégane Ranger
 
 ### Installation en cours (ou finale)  
-<img src="terminal_vue_ensemble.jpg" alt="Image" style="width:50%; height:auto;">  
+<img src="Medias/terminal_vue_ensemble.jpg" alt="Image" style="width:50%; height:auto;">  
 
 > Photo de l'oeuvre "Terminal" prise par Jessi McMullen
 
