@@ -27,7 +27,7 @@ Moment Factory
 
 ### <ins>**Année de réalisation:**:</ins> 2017  
 
-### <ins>**Description de l'oeuvre:**</ins>  
+### <ins>**Description du dispositif:**</ins>  
 > Depuis mai 2017, les visiteurs peuvent cette fois emprunter une portion de l’égout collecteur sur une distance de 110 mètres. Ils sont appelés à vivre une expérience multisensorielle et réflexive grâce à l’installation Collecteur de mémoires, un ingénieux mécanisme de projections lumineuses sur les parois en pierre, dans un environnement sonore spécialement créé pour l’occasion.
 > Dans le souci de respecter l’esprit du lieu, la mise en valeur de cet impressionnant collecteur plonge le visiteur dans un monde souterrain quasi mystérieux qui le transporte au cœur d’un espace magique porteur d’histoire et chargé d’émotions. Du jamais vu à Montréal!  
 source: [Collecteur de mémoires](https://pacmusee.qc.ca/fr/expositions/detail/collecteur-de-memoires/)  <br>
