@@ -85,5 +85,5 @@ Les projections d'images au début et à la fin de l'égout, j'aurait éaglement
 
 ### Références  
 Toutes les photos et croquis ont étés réalisés par Jessi McMullen  
-[siteweb de l'oeuvre et exposition](https://pacmusee.qc.ca/fr/expositions/detail/collecteur-de-memoires/)  
-[Siteweb de l'artiste: Moment Factory](https://momentfactory.com/fr/products/collecteur-de-memoires)  
+[siteweb du dispositif et l'exposition](https://pacmusee.qc.ca/fr/expositions/detail/collecteur-de-memoires/)  
+[Siteweb de la firme: Moment Factory](https://momentfactory.com/fr/products/collecteur-de-memoires)  
