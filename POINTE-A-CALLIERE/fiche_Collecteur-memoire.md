@@ -8,6 +8,7 @@ Pointe-à-Callière<br>
 <img src="medias/edifice_photo_selfie.jpg" alt="Image" style="width:40%; height:auto;">  
 
 > moi devant l'entrée de l'édifice où l'exposition a lieu
+> L'exposition a lieu dans un musé d'archéologie.
 
 ### <ins>**Type d'exposition:**</ins>  
 permanente & intérieure
@@ -21,7 +22,7 @@ Collecteur de mémoires  <br>
 
 > Photo de vue d'ensemble de l'oeuvre
 
-### <ins>**nom de l'artiste:**</ins>
+### <ins>**nom de la firme:**</ins>
 Moment Factory
 
 ### <ins>**Année de réalisation:**:</ins> 2017  
@@ -31,7 +32,7 @@ Moment Factory
 > Dans le souci de respecter l’esprit du lieu, la mise en valeur de cet impressionnant collecteur plonge le visiteur dans un monde souterrain quasi mystérieux qui le transporte au cœur d’un espace magique porteur d’histoire et chargé d’émotions. Du jamais vu à Montréal!  
 source: [Collecteur de mémoires](https://pacmusee.qc.ca/fr/expositions/detail/collecteur-de-memoires/)  <br>
 <img src="medias/presentation_lumineuse_debut.jpg" alt="Image" style="width:50%; height:auto;">
-> 
+
 > Texte de présentation de l'oeuvre
 <img src="medias/plaque_site_historique.jpg" alt="Image" style="width:50%; height:auto;">
 
@@ -44,7 +45,7 @@ Immersive et contemplative: Il faut se déplacer dans l'égout, observer les pro
 > Vue d'ensemble de l'oeuvre
 
 ### <ins>**Fonction du dispositif multimédia:**</ins>  
- mise en valeur, les lumières et le son permettent de rendre la visite du site plus intéressantes physiquement et visuellement  <br>
+ mise en valeur et scénographie. Les lumières et le son permettent de rendre la visite du site plus intéressantes physiquement et visuellement. Le dispositif a également une fonction scénographique car il permet le passage  vers l'autre pavillon après lui.  <br>
 <img src="medias/composantes-projection.jpg" alt="Image" style="width:50%; height:auto;">  
 
 > Photo de la parois de l'égout avec des images et de la lumière projetées
@@ -57,6 +58,7 @@ Les dispositif de lumières sont placés le long du tunnel de l'égout sur les c
 
 ### <ins>**Composantes et techniques:**</ins>  
 lumières, bandes de lumières, haut parleurs, projecteurs: 4 composantes  
+> Les hauts-parleurs sont bien dissimulés, il n'a pas été possible de les trouvés pour les prendre en photos. Je suppose qu'il sont caché possiblement à travers la passerelle ou en dessous de celle-ci. Le son ne semblait pas venir venir des boitiers de projecteurs.
 <img src="medias/composantes-projection.jpg" alt="Image" style="width:30%; height:auto;">
 <img src="medias/composantes-projection_proche.jpg" alt="Image" style="width:25%; height:auto;"> <br>
  <img src="medias/egout-debut.jpg" alt="Image" style="width:60%; height:auto;"> 
