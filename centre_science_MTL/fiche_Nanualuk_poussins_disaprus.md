@@ -1,7 +1,7 @@
 # Nanualuk
 Affiche de l'exposition
 
-<img src="medias/" alt="Image" style="width:40%; height:auto;"> <img src="medias/affiche_exposition.jpg" alt="Image" style="width:40%; height:auto;">  
+ <img src="medias/affiche_exposition.jpg" alt="Image" style="width:40%; height:auto;">  
 
 ## <ins>**Lieu de mise en exposition:**</ins>  
 Centre des sciences de Montréal<br> 
@@ -18,10 +18,11 @@ permanente & intérieure
 ### <ins>**Titre du dispositif:**</ins>  
 Les poussins disparus <br>
 <img src="medias/dispositif_intact.jpg" style="width:50%; height:auto;">  
+<img src="medias/dispositif_intact.jpg" style="width:50%; height:auto;">  
 
 > Photo de vue d'ensemble de l'oeuvre
 
-### <ins>**nom de l'artiste:**</ins>
+### <ins>**nom de la firm:**</ins>
 
 
 ### <ins>**Année de réalisation:**:</ins> 2017  
