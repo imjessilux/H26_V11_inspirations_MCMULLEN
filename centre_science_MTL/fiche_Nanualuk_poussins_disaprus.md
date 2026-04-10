@@ -1,13 +1,11 @@
 # Nanualuk
 Affiche de l'exposition
 
-<img src="medias/" alt="Image" style="width:40%; height:auto;"> <img src="medias/presentation_lumineuse_millieu.jpg" alt="Image" style="width:40%; height:auto;">  
-
-> Texte de présentation
+<img src="medias/" alt="Image" style="width:40%; height:auto;"> <img src="medias/affiche_exposition.jpg" alt="Image" style="width:40%; height:auto;">  
 
 ## <ins>**Lieu de mise en exposition:**</ins>  
 Centre des sciences de Montréal<br> 
-<img src="medias/" alt="Image" style="width:40%; height:auto;">  
+<img src="medias/selfie_centre_science_MTL.jpg" alt="Image" style="width:40%; height:auto;">  
 
 > moi devant l'entrée de l'édifice où l'exposition a lieu
 
@@ -15,11 +13,11 @@ Centre des sciences de Montréal<br>
 permanente & intérieure
 
 ### <ins>**Date de visite:**</ins>  
-15/02/2026
+01/04/2026
 
-### <ins>**Titre de l'oeuvre:**</ins>  
-Vue d'ensemble de l'oeuvre ou du dispositif <br>
-<img src="medias/" style="width:50%; height:auto;">  
+### <ins>**Titre du dispositif:**</ins>  
+Les poussins disparus <br>
+<img src="medias/dispositif_intact.jpg" style="width:50%; height:auto;">  
 
 > Photo de vue d'ensemble de l'oeuvre
 
