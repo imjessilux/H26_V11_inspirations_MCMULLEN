@@ -28,6 +28,9 @@ parler lien avec autres installations
 Dispositif "Collecteur de mémoires" situé sur un chemin de plusieurs pavillons dans sous-sol du musé d'archéologie "Pointe-À-Callière"
 permanente intérieur, réalisé en 2017 par la firme Moment Factory
 <br>
+Le dispositif consiste de lumières, projecteurs d'images et de hauts-parleurs. Les hauts parleurs ont bien étés dissimulé et il m'a été impossible de les trouver et alors de les prendre en photo. Selon mes observations, je suppose qu'ils serait cachés sur la passerelle ou en dessous de celle-ci. Aucun son ne semblait venir des boitiers des projecteurs.
+Le dispositif affiche des images de personnes aux extrémitées de l'égout, et alterne entre  des feuilles et des cristaux sur le long des parois du chemin. Les couleurs projetées sur les murs alternent entre rose, rouge, mauve et bleu.
+
 descendre escaliers, placé dans égout qui autrefois surface -> niveau sol à augmenté aec temps. 110m
 était au départ une rivière en 1700, c'est ensuite devenue un égout à ciel ouvert en 1800.
 
@@ -35,17 +38,17 @@ dispositif affiche des images au début et fin égout, alterne en plusieurs imag
 Sur parois: projection alternante entre feuilles et crystaux, tout long chemin.
 fonction dispositif= mise en valeur, les lumières et projecteur servent à embellir l'intérieur de l'égout. Fonction aussi scénographique car permet passage vers un autre pavillon.
 
-composants= lumières, projecteur images sur parois de pierre. et haut-parleurs avec trame sonore
+__composants__= lumières, projecteur images sur parois de pierre. et haut-parleurs avec trame sonore
 hauts parleurs bien dissimulé -> pas trouvé -> pas de photo
 possiblement caché sous passerelle selon observation: pas boitier projecteurs -> j'ai vérifié
 
 éléments nécessaires pour exposition = l'égout en lui même, tableau lumineux pour text descriptif, passerelle de métal pour déplacement, et des rampes pour délémité la zone où marcher. 
 
-couleurs sur parois alterne entre rose, rouge, vert, rose, mauve et bleu
-**Présentation endroit situé:** <br>
-Il faut descendred plusieurs escalier. Le dispositif est placé dans un égout qui était autrefois au niveau du sol. le niveau du sol du moment qu'il a été créé est maintenant sous terre comparé à aujourd'hui. Le dispositif s'étend sur les 110m de l'égout
-Le dispositif consiste de lumières, projecteurs d'images et de hauts-parleurs. Les hauts parleurs ont bien étés dissimulé et il m'a été impossible de les trouver et alors de les prendre en photo. Selon mes observations, je suppose qu'ils serait cachés sur la passerelle ou en dessous de celle-ci. Aucun son ne semblait venir des boitiers des projecteurs.
-Le dispositif affiche des images de personnes aux extrémitées de l'égout, et alterne entre  des feuilles et des cristaux sur le long des parois du chemin. Les couleurs projetées sur les murs alternent entre rose, rouge, mauve et bleu.
+couleurs sur parois alterne entre rose, rouge, vert, rose, mauve et bleu<br>
+__Présentation endroit situé:__ <br>
+- Situé dans musé archéologie,, Pointe-à-callière est classé comme site archéologie et historique national. 
+- Il faut descendred plusieurs escalier. Le dispositif est placé dans un égout qui était autrefois au niveau du sol. le niveau du sol du moment qu'il a été créé est maintenant sous terre comparé à aujourd'hui. Le dispositif s'étend sur les 110m de l'égout.<br><br>
+
 
 
  
