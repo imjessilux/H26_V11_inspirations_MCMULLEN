@@ -37,7 +37,7 @@ Le dispositif demande au partticipant de trouver 4 poussins éparpillés dans la
 
 ### <ins>**Type d'installation:**</ins>  
    Intéractive <br>
-   Il faut intéragir avec le badge reçu, et ensuite le dispositif demande aux visiteurs de se déplacer dans l'endroit avant de revenir au dispositif.
+   Il faut intéragir avec le badge reçu, et ensuite le dispositif demande aux visiteurs de se déplacer dans l'endroit avant de revenir au dispositif.   
 <img src="medias/badge_devant_dispositif.jpg" alt="Image" style="width:40%; height:auto;"><img src="medias/badge_sur_dispositif.jpg" alt="Image" style="width:40%; height:auto;">  
 <img src="medias/poussin-perdu_mur-dispositif.jpg" alt="Image" style="width:40%; height:auto;"><img src="medias/poussin-perdu_mur-mauve.jpg" alt="Image" style="width:40%; height:auto;">   
 <img src="medias/dispositif_felicitation.jpg" alt="Image" style="width:50%; height:auto;"> 
