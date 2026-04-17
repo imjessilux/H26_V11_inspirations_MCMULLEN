@@ -27,7 +27,6 @@ parler lien avec autres installations
  - __Présentation__ <br>
 - Dispositif "Collecteur de mémoires" situé sur un chemin de plusieurs pavillons dans sous-sol du musé d'archéologie "Pointe-À-Callière"
 - permanente intérieur, réalisé en 2017 par la firme Moment Factory
-<br>
 - dispositif consiste de lumières, projecteurs d'images et de hauts-parleurs.
 -  Les hauts parleurs ont bien étés dissimulé et il m'a été impossible de les trouver et alors de les prendre en photo. Selon mes observations, suppose qu'ils serait cachés sur la passerelle ou en dessous de celle-ci. Aucun son ne semblait venir des boitiers des projecteurs.
 - affiche des images de personnes  extrémitées de l'égout, et alterne entre  des feuilles et des cristaux sur le long des parois du chemin. Les couleurs projetées sur les murs alternent entre rose, rouge, mauve et bleu.
