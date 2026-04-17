@@ -84,4 +84,5 @@ L'idée du dispositifs des poussins disparus m'a plu, je pense que c'est une bon
 Sans commentaire, l'exposition est simplement destiné à un public cible plus jeune que le miens, alors l'exposition ne me convient pas tout à fait, le langage utilisé est simple, les activitis sont simple et seulement légèrement intéressantes pour moi. 
 
 ### Références  
-Toute images présente dans le fichier est fait par Jessi McMullen sauf celles avec indication du contraire.
+Toute images présente dans le fichier est fait par Jessi McMullen sauf celles avec indication du contraire.  
+<a href="https://www.centredessciencesdemontreal.com/exposition-permanente/nanualuk-expedition-nordique"> Site web de l'exposition</a>
