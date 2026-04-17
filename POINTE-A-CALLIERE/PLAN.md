@@ -48,22 +48,32 @@ __Présentation endroit situé:__ <br>
 - témoigne plus de 1000 ans activité humaine
 - plus grand et plus fréquenté des musées histoire montréal
 
- - Expérience
-installation contemplative et immersive, = uniquement nécessaire de se déplacer à travers celle-ci. faut seulement observer autour de soi et apprécier le moment jusqu'à la fin. L'expérience est relaxante, apaisante, impressionante mais peut être ennuyante pour certain puisqu'elle cosniste qu'à regarder. La durée de l'expérience dépend de combien de temps on prend pour contempler, j'ai vue des gens qui ne sont pas arrêtés pour regarder plus en détails.
-
+__Expérience__
+- installation contemplative et immersive, = uniquement nécessaire de se déplacer à travers celle-ci. faut seulement observer autour de soi et apprécier le moment jusqu'à la fin. L'expérience est relaxante, apaisante, impressionante mais peut être ennuyante pour certain ->car consiste qu'à regarder.
+- durée expérience dépend de combien de temps on prend pour contempler, j'ai vue des gens qui ne sont pas arrêtés pour regarder plus en détails.
 EXPéRIENCE = relaxante, apaisante et intéressante. parcours= presque ligne droite.
 peut être ennuyante pour certaines personnes.
 TEMPS= moi m'a pris environ +/- 15 si avait pas besoin documenter
 
- - appréciation critique avec justification
-J'ai aimé lumi;ere sur parois, très beau et captivant,
+__appréciation critique avec justification__
+aimé lumières sur parois, très beau et captivant, force visiteurs au moins regarder un peu pour regarder
 ++ aime utilisation de écho de structure égout pour faire jouer le son partout. Beaucoup augmenté qualité d'expérience
 
  - Lien avec d'autres oeuvres / dispositifs / expérience multimédia vue cette session
+  __lien autre oeuvres ou dispositif ou expérience multimédia__
+ - Trame sonore avec "SlopPsyopRealism" dans l'exposition "Devenirs partagés. Pratiques de l'IA"
+ - SlopPsyop Realism avait sonore, peu audible, et se confont avec les autres installations de l'exposition. COMPARÉ Collecteur de mémoires très audible, son partout, très immersive et ambiant. SlopPsyop, chaos sonore, un bruit parmi tant d'autres, représentant la surabondance de médias et de stimulis. 
 
  ## <ins>**Conclusion**</ins>  
 
+ Donc
+ - collecteur de mémoires = dispositif situé dans égout,, installation contemplative & immersive, sert mise en valeur et scénographique. S'agit de projection d'images et de couleurs sur les extrémitées et parois d'un égout avec trame sonore jouant partout 
+ - Endroit dans lequel situé = musé archéologie Point-À-Callière, le plus grand et plus visité musées histoire montréal
+
   ## <ins>**Ouverture**</ins>  
+
+
+  Trame sonore de collecteur mémoir m'a inspiré, très bonne utilisation espace, son résonne partout tunnel. 
 
 
 
