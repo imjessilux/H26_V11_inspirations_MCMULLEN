@@ -1,16 +1,17 @@
 Introduction :  
  Quel est l'objectif de votre communication (sujet posé = nommer l'oeuvre (et l'artiste) ou le dispositif présenté + lieu visité)<br>
- Quels aspects seront abordés ? (sujet divisé = annoncer les différents points du développement)<br>
+ Quels aspects seront abordés ? (sujet divisé = annoncer les différents points du développement)<br><br>
 Développement : <br> 
- Présentation détaillée de l'oeuvre ou du dispositif multimédia (Décrire où elle est située dans l'exposition, comment on y accède, quels sont ses composantes et éléments)<br>
+ Présentation détaillée de l'oeuvre ou du dispositif multimédia (Décrire où elle est située dans l'exposition, comment on y accède, quels sont ses composantes et éléments)<br><br>
 Expérience vécue  <br>
- (Décrire votre expérience de l'oeuvre ou du dispositif, le parcours, la durée, les gestes à poser, etc)
+ (Décrire votre expérience de l'oeuvre ou du dispositif, le parcours, la durée, les gestes à poser, etc)<br><br>
 Appréciation critique et justifications  
- (Ce qui vous a plu, vous a donné des idées + Aspects que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement + pourquoi)
- Liens avec d'autres oeuvres, dispositifs et expériences multimédias découverts cette session (ressemblances, différences ou intérêt spécifique)
-Conclusion :  
- Rappel des aspects présentés
- Ouverture : élément inspirant retenu parmi toutes les oeuvres, dispositfs et expériences de la session
+ (Ce qui vous a plu, vous a donné des idées + Aspects que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement + pourquoi)<br><br>
+ Liens avec d'autres oeuvres, dispositifs et expériences multimédias découverts cette session (ressemblances, différences ou intérêt spécifique)<br><br>
+Conclusion :  <br>
+ Rappel des aspects présentés<br><br>
+ Ouverture : <br>
+ élément inspirant retenu parmi toutes les oeuvres, dispositfs et expériences de la session
 
  ## <ins>**Introduction:**</ins>  
  - objectifs:  
