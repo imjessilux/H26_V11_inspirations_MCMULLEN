@@ -37,10 +37,8 @@ Le dispositif demande au partticipant de trouver 4 poussins éparpillés dans la
 
 ### <ins>**Type d'installation:**</ins>  
    Intéractive <br>
-<img src="medias/badge_devant_dispositif.jpg" alt="Image" style="width:50%; height:auto;">
-<img src="medias/badge_sur_dispositif.jpg" alt="Image" style="width:50%; height:auto;">  
-<img src="medias/poussin-perdu_mur-dispositif.jpg" alt="Image" style="width:50%; height:auto;">
-<img src="medias/poussin-perdu_mur-mauve.jpg" alt="Image" style="width:50%; height:auto;">   
+<img src="medias/badge_devant_dispositif.jpg" alt="Image" style="width:50%; height:auto;"><img src="medias/badge_sur_dispositif.jpg" alt="Image" style="width:50%; height:auto;">  
+<img src="medias/poussin-perdu_mur-dispositif.jpg" alt="Image" style="width:50%; height:auto;"><img src="medias/poussin-perdu_mur-mauve.jpg" alt="Image" style="width:50%; height:auto;">   
 <img src="medias/dispositif_felicitation.jpg" alt="Image" style="width:50%; height:auto;"> 
 
 > Photos de l'intéraction à faire et des poussins à retrouver. J'ai oublié de prendre en photo le dernier poussin qui est de l'autre côté du mur du dispositif.
