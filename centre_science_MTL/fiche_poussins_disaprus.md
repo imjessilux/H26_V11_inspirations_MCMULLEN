@@ -37,6 +37,7 @@ Le dispositif demande au partticipant de trouver 4 poussins éparpillés dans la
 
 ### <ins>**Type d'installation:**</ins>  
    Intéractive <br>
+   Il faut intéragir avec le badge reçu, et ensuite le dispositif demande aux visiteurs de se déplacer dans l'endroit avant de revenir au dispositif.
 <img src="medias/badge_devant_dispositif.jpg" alt="Image" style="width:40%; height:auto;"><img src="medias/badge_sur_dispositif.jpg" alt="Image" style="width:40%; height:auto;">  
 <img src="medias/poussin-perdu_mur-dispositif.jpg" alt="Image" style="width:40%; height:auto;"><img src="medias/poussin-perdu_mur-mauve.jpg" alt="Image" style="width:40%; height:auto;">   
 <img src="medias/dispositif_felicitation.jpg" alt="Image" style="width:50%; height:auto;"> 
@@ -52,37 +53,36 @@ Le dispositif demande au partticipant de trouver 4 poussins éparpillés dans la
 > Photo de vue d'ensemble du dispositif et une photo de l'écran affichant des informations sur des oiseaux du nord.
 
 ### <ins>**Mise en espace:**</ins>  
-Croquis vue de haut du dispositif Les poussins disparus. En rose sont des mursqui compose un structure sur laquel il y a deux dispositif dont lui de droite étant Les poussins disaparus. 
+Croquis vue de haut du dispositif Les poussins disparus. En rose sont des murs qui compose un structure sur laquel il y a le dispositif Les poussins disaparus. En bas l'espace est l'entrée de la salle d'Exposition, avant cette entrée est une salle pour présenter des instruction et le contexte de l'exposition. C'est également à cette endroit que nous trouvons les badges à puces.   
 <img src="medias/Croquis-vue-haut.jpg" alt="Image" style="width:50%; height:auto;">  
 
 > Croquis vue de haut de l'oeuvre
 
 ### <ins>**Composantes et techniques:**</ins>  
-Écran, Badge à puce, Haut-parleur, Murs,  
+Écran, Badge à puce, Haut-parleur,  lecteur de carte à puce,
+Les haut-parleurs ne sont pas visibles, ils sont probablement cachés à l'intérieur du mur avec le reste des technologies nécessaire. Le liseur de carte à puce est le cercle lumineux. 
 
-<img src="medias/" alt="Image" style="width:30%; height:auto;">
-<img src="medias/" alt="Image" style="width:25%; height:auto;"> <br>
- <img src="medias/" alt="Image" style="width:60%; height:auto;"> 
-<img src="medias/" alt="Image" style="width:20%; height:auto;">    
+<img src="medias/vue-grande.jpg" alt="Image" style="width:30%; height:auto;">
+<img src="medias/dispositif_vue-moyenne.jpg" alt="Image" style="width:25%; height:auto;"> <br>
+ <img src="medias/badge_devant_dispositif.jpg" alt="Image" style="width:60%; height:auto;"> 
 
 > Plusieurs photos des composantes du dispositif
 
 ### <ins>**Éléments nécessaires à la mise en exposition:**</ins>  
 Vidéo explication (au début de l'exposition), Murs, Salle d'exposition, Lumières
 
-<img src="medias/" alt="Image" style="width:40%; height:auto;">  
-<img src="medias/" alt="Image" style="width:50%; height:auto;">  
-<img src="medias/" alt="Image" style="width:50%; height:auto;">  
+<img src="medias/vue-grande.jpg" alt="Image" style="width:40%; height:auto;">  
 
->
+> Photos des élément nécessaires à la mise en exposition
 
 ### <ins>**Éxpérience vécue:**</ins>  
-J'ai fais deux fois l'expérience de ce dispositif, la première fois j'ai choisi d'expérimenter l'exposition en français, mais la deuxième fois j'ai oublié de choisir en français. Au début de l'exposition il y a une vidéo explication pour mettre en contexte et dire ce qu'il faut faire. Il y a également des badges à prendre pour garder les informations qu'on prend à chaque station, il faut tapper le badge sur un scan français ou anglais pour choisir la langue voulu. Ily a de ombreuse statiions à intéragir avec, certain sont électronique, d'autres sont fait sans électricité.
+J'ai fais deux fois l'expérience de ce dispositif, la première fois j'ai choisi d'expérimenter l'exposition en français, mais la deuxième fois j'ai oublié de choisir en français. Au début de l'exposition il y a une vidéo explicative pour mettre en contexte et dire ce qu'il faut faire. Il y a également des badges à prendre pour garder les informations qu'on prend à chaque station, il faut tapper le badge sur un scan français ou anglais pour choisir la langue voulu. Il y a de nombreuse stations à intéragir avec, certaines sont électroniques, d'autres sont fait sans électricité.
 
 ### <ins>**Ce qui m'a plu ou donné des idées**</ins>  
-L'idée du dispositifs des poussins disparus m'a plu, je pense que c'est une bonne idée pour voir un aperçu de la salle d'Exposition. Le dispositif permet de découvrir les autres stations à aller voir par la suite, étant donéé qu'il est positionné au début de l'exposition.
+L'idée du dispositifs des poussins disparus m'a plu, je pense que c'est une bonne idée pour voir un aperçu de la salle d'exposition. Le dispositif permet de découvrir les autres stations à aller voir par la suite, étant donéé qu'il est positionné au début de l'exposition.
 
 ### <ins>**Aspects que je ne souhaiteriais pas retenir pour mes propres créations ou que je ferais autrement:**</ins>  
-Sans commentaire, l'exposition est simplement destiné à un autre public cible, alors l'exposition ne me convient pas tout à fait, le langage utilisé est simple, les activitis sont simple et seulement légèrement intéressantes pour moi. 
+Sans commentaire, l'exposition est simplement destiné à un public cible plus jeune que le miens, alors l'exposition ne me convient pas tout à fait, le langage utilisé est simple, les activitis sont simple et seulement légèrement intéressantes pour moi. 
 
 ### Références  
+Toute images présente dans le fichier est fait par Jessi McMullen sauf celles avec indication du contraire.
