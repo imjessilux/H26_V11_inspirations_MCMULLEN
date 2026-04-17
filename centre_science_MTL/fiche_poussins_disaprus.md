@@ -52,8 +52,8 @@ Le dispositif demande au partticipant de trouver 4 poussins éparpillés dans la
 > Photo de vue d'ensemble du dispositif et une photo de l'écran affichant des informations sur des oiseaux du nord.
 
 ### <ins>**Mise en espace:**</ins>  
-CROQUIS A FAIRE.
-<img src="medias/" alt="Image" style="width:50%; height:auto;">  
+Croquis vue de haut du dispositif Les poussins disparus. En rose sont des mursqui compose un structure sur laquel il y a deux dispositif dont lui de droite étant Les poussins disaparus. 
+<img src="medias/Croquis-vue-haut.jpg" alt="Image" style="width:50%; height:auto;">  
 
 > Croquis vue de haut de l'oeuvre
 
