@@ -62,8 +62,7 @@ Croquis vue de haut du dispositif Les poussins disparus. En rose sont des murs q
 Écran, Badge à puce, Haut-parleur,  lecteur de carte à puce,
 Les haut-parleurs ne sont pas visibles, ils sont probablement cachés à l'intérieur du mur avec le reste des technologies nécessaire. Le liseur de carte à puce est le cercle lumineux. 
 
-<img src="medias/vue-grande.jpg" alt="Image" style="width:30%; height:auto;">
-<img src="medias/dispositif_vue-moyenne.jpg" alt="Image" style="width:25%; height:auto;"> <br>
+<img src="medias/vue-grande.jpg" alt="Image" style="width:50%; height:auto;"><img src="medias/dispositif_vue-moyenne.jpg" alt="Image" style="width:40%; height:auto;"> <br>
  <img src="medias/badge_devant_dispositif.jpg" alt="Image" style="width:60%; height:auto;"> 
 
 > Plusieurs photos des composantes du dispositif
