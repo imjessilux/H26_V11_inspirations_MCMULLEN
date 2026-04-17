@@ -37,8 +37,8 @@ Le dispositif demande au partticipant de trouver 4 poussins éparpillés dans la
 
 ### <ins>**Type d'installation:**</ins>  
    Intéractive <br>
-<img src="medias/badge_devant_dispositif.jpg" alt="Image" style="width:50%; height:auto;"><img src="medias/badge_sur_dispositif.jpg" alt="Image" style="width:50%; height:auto;">  
-<img src="medias/poussin-perdu_mur-dispositif.jpg" alt="Image" style="width:50%; height:auto;"><img src="medias/poussin-perdu_mur-mauve.jpg" alt="Image" style="width:50%; height:auto;">   
+<img src="medias/badge_devant_dispositif.jpg" alt="Image" style="width:40%; height:auto;"><img src="medias/badge_sur_dispositif.jpg" alt="Image" style="width:40%; height:auto;">  
+<img src="medias/poussin-perdu_mur-dispositif.jpg" alt="Image" style="width:40%; height:auto;"><img src="medias/poussin-perdu_mur-mauve.jpg" alt="Image" style="width:40%; height:auto;">   
 <img src="medias/dispositif_felicitation.jpg" alt="Image" style="width:50%; height:auto;"> 
 
 > Photos de l'intéraction à faire et des poussins à retrouver. J'ai oublié de prendre en photo le dernier poussin qui est de l'autre côté du mur du dispositif.
@@ -47,8 +47,7 @@ Le dispositif demande au partticipant de trouver 4 poussins éparpillés dans la
   Scénographique et support pédagogique <br>
   Scénographique car le dispositif fait parti d'un ensemble de dispositif et oeuvre où ils faut tous les visités.
   Support pédagogique car le dispositif fait apprendre des informations sur des oiseaux une fois les poussins rapportés.
-<img src="medias/vue-grande.jpg" alt="Image" style="width:50%; height:auto;">  
-<img src="medias/dispositif_educatif.jpg" alt="Image" style="width:50%; height:auto;">  
+<img src="medias/vue-grande.jpg" alt="Image" style="width:50%; height:auto;">  <img src="medias/dispositif_educatif.jpg" alt="Image" style="width:50%; height:auto;">  
 
 > Photo de vue d'ensemble du dispositif et une photo de l'écran affichant des informations sur des oiseaux du nord.
 
@@ -59,7 +58,8 @@ CROQUIS A FAIRE.
 > Croquis vue de haut de l'oeuvre
 
 ### <ins>**Composantes et techniques:**</ins>  
-Écran, Badge à puce, Haut-parleur, Murs, 
+Écran, Badge à puce, Haut-parleur, Murs,  
+
 <img src="medias/" alt="Image" style="width:30%; height:auto;">
 <img src="medias/" alt="Image" style="width:25%; height:auto;"> <br>
  <img src="medias/" alt="Image" style="width:60%; height:auto;"> 
