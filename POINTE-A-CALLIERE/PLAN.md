@@ -24,7 +24,7 @@ parler expérience
 parler lien avec autres installations
 
  ## <ins>**Développement:**</ins>  
- - **Présentation** <br>
+ - __Présentation__ <br>
 Dispositif "Collecteur de mémoires" situé sur un chemin de plusieurs pavillons dans sous-sol du musé d'archéologie "Pointe-À-Callière"
 permanente intérieur, réalisé en 2017 par la firme Moment Factory
 <br>
