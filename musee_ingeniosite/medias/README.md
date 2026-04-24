@@ -1,1 +1,1 @@
-Dossier contenant des photos au musée de l'ingéniosité
+Dossier contenant des photos lié à la conférence.
