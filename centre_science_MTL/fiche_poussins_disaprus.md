@@ -3,6 +3,8 @@ Affiche de l'exposition
 
  <img src="medias/affiche_exposition.jpg" alt="Image" style="width:40%; height:auto;">  
 
+ > Phot de l'affiche de l'exposition situé à la fin de l'exposition
+
 ## <ins>**Lieu de mise en exposition:**</ins>  
 Centre des sciences de Montréal<br> 
 <img src="medias/selfie_centre_science_MTL.jpg" alt="Image" style="width:40%; height:auto;">  
@@ -31,7 +33,7 @@ Aucune date n'est spécifié, je suppose que c'est environ en 2025 ou 2026
 Le dispositif demande au partticipant de trouver 4 poussins éparpillés dans la salle de 'exposition et de revenir au dispositif après les avoir scannés. <br>
 <img src="medias/dispositif_appel_action.jpg" alt="Image" style="width:50%; height:auto;">
 
-> Texte descriptif
+> Photo montrant de proche l'écran du dispositif
 
 
 
@@ -47,7 +49,7 @@ Le dispositif demande au partticipant de trouver 4 poussins éparpillés dans la
 ### <ins>**Fonction du dispositif multimédia:**</ins>  
   Scénographique et support pédagogique <br>
   Scénographique car le dispositif fait parti d'un ensemble de dispositif et oeuvre où ils faut tous les visités.
-  Support pédagogique car le dispositif fait apprendre des informations sur des oiseaux une fois les poussins rapportés.
+  Support pédagogique car le dispositif fait apprendre des informations sur des oiseaux une fois les poussins rapportés.   
 <img src="medias/vue-grande.jpg" alt="Image" style="width:50%; height:auto;">  <img src="medias/dispositif_educatif.jpg" alt="Image" style="width:50%; height:auto;">  
 
 > Photo de vue d'ensemble du dispositif et une photo de l'écran affichant des informations sur des oiseaux du nord.
@@ -65,14 +67,14 @@ Les haut-parleurs ne sont pas visibles, ils sont probablement cachés à l'inté
 <img src="medias/vue-grande.jpg" alt="Image" style="width:50%; height:auto;"><img src="medias/dispositif_vue-moyenne.jpg" alt="Image" style="width:40%; height:auto;"> <br>
  <img src="medias/badge_devant_dispositif.jpg" alt="Image" style="width:60%; height:auto;"> 
 
-> Plusieurs photos des composantes du dispositif
+> Plusieurs photos du dispositif vue de loin et de proche avec un badge à puce.
 
 ### <ins>**Éléments nécessaires à la mise en exposition:**</ins>  
 Vidéo explication (au début de l'exposition), Murs, Salle d'exposition, Lumières
 
 <img src="medias/vue-grande.jpg" alt="Image" style="width:40%; height:auto;">  
 
-> Photos des élément nécessaires à la mise en exposition
+> Photos de grande vue du dispositif montant les murs du dispositifs et un peu la salle d'Exposition en arrière.
 
 ### <ins>**Éxpérience vécue:**</ins>  
 J'ai fais deux fois l'expérience de ce dispositif, la première fois j'ai choisi d'expérimenter l'exposition en français, mais la deuxième fois j'ai oublié de choisir en français. Au début de l'exposition il y a une vidéo explicative pour mettre en contexte et dire ce qu'il faut faire. Il y a également des badges à prendre pour garder les informations qu'on prend à chaque station, il faut tapper le badge sur un scan français ou anglais pour choisir la langue voulu. Il y a de nombreuse stations à intéragir avec, certaines sont électroniques, d'autres sont fait sans électricité.
