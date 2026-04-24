@@ -1,24 +1,13 @@
-idk a ecrire
+# Titre : vidéo-conférence sur le Musée de l’ingéniosité J.Armand-Bombardier   
 
 
-# Ce qui est attendu 
-Un compte-rendu est d'abord un écrit objectif (donc qui rapporte des faits, des données) qui permet à une personne qui n'aurait pas assisté à l'événement dont il est question de comprendre ce qui a été présenté. 
+### Intro :   
+Martin Boucher a présenté durant une vidéo-conférence le [Musée de l’ingéniosité J.Armand-Bombardier](url) situé à Valcourt. Il est technicien en multimédia et en informatique, il s’occupe de la maintenance de divers dispositifs et appareils électronique mis en place dans le musé, il s’occupe aussi de prise de photos et vidéos et de produire des montages publicitaires pour le musée 
 
-Il s'agira donc, dans un texte de 200-250 mots, de rendre compte de la conférence en partageant les grandes lignes du contenu présenté. Vous devrez ordonner votre propos pour que la construction soit logique et reprenne le fil de ce qui a été discuté. 
+### Développement :    
+Lors de sa conférence, il a d’abord parlé en bref de divers dispositifs présents au musée comme un simulateur de vol, un Fablab, un atelier de création de véhicule roulant et autres. Ensuite, M. Boucher a énuméré une liste de connaissance pratique à obtenir après avoir terminé un programme en Technique d’intégration multimédia : informatique, Éclairage, Gestion de projet, Audio. Il a également parler de certaines composantes utiles lors d’installation multimédia comme le Brightsign ou le Arduino, un appareil contrôleur qui permet d’envoyer des signaux à d’autre composantes. Cette composante est stable, programmable et personnalisable dit-il. D’autre part, M. Boucher à expliquer ce qu’est le spectacle multimédia sur Joseph Armand qui prend place dans le garage du musée. Il a expliqué son déroulement et a fourni des informations supplémentaires sur le fonctionnement des installations. Pour terminer, il a abordé un projet sur lequel il a travaillé pour le métro, il devait lui et une équipe développer un dispositif qui pouvais attirer l’attention des visiteurs lors d’un passage dans une salle d’exposition avec un modèle d’un bogie de métro.
 
-Le compte-rendu doit avoir un **titre**. Le propos doit être bien structuré (en **paragraphes**) avec une **introduction** qui présente l'intervenant et le thème de sa conférence. Puis, quelques-unes des grandes idées partagées sont expliquées dans le **développement**. Enfin, votre **conclusion** partagera une appréciation de la conférence, appréciation qui sera appuyée d'une justification (le pourquoi). Il est important de conserver une attitude ouverte et respectueuse dans cette partie du compte-rendu. 
-
-Dans votre répertoire, il vous faudra créer un dossier **musee_ingeniosite** puis une **fiche_rencontre_M_BOUCHER.md**  dans laquelle vous rédigerez votre compte-rendu en utilisant une mise en page avec titre et sous-titre.  Vous devrez insérer une image d'un dispositif de votre choix, présenté lors de la conférence, et tiré du site web du Musée en identifiant bien la source (à la fois dans le nom du fichier-image chargé dans votre dossier ET dans la légende sous la photo dans la fiche).
-
-Rappel: la qualité de français étant importante, assurez-vous de passer votre texte par Antidote ou un autre logiciel de correction avant de le remettre.
-
-Référence : [Le compte-rendu critique - Stratégies d'écriture dans la formation spécifique](https://ameliofrancais.ccdmd.qc.ca/storage/amelioration-du-francais/ressources/1696430972-Genres_Genres_02lecompterenducritique_V2.pdf)  (voir les pages 5 à 10 pour des stratégies et un exemple)
+### Conclusion :    
+J’ai surtout apprécié l’explication du projet du Bogie de métro, apprendre le but qui leurs était donné, leur approche prise, l’explication du dispositif et comment il fonctionne. Je n’étais pas au courant que la musique du métro était en faite la modulation des fréquences d’électricités pour faire démarrer le moteur. J’ai trouvé l’explication de la provenance du bruit très intéressante.
 
 
-Titre
-
-Intro
-
-développement
-
-conclusion
