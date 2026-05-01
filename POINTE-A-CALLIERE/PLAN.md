@@ -24,7 +24,7 @@ parler expérience
 parler lien avec autres installations
 
  ## <ins>**Développement:**</ins>  
- - __Présentation__ <br>
+__Présentation__ <br>
 - Dispositif "Collecteur de mémoires" situé sur un chemin de plusieurs pavillons dans sous-sol du musé d'archéologie "Pointe-À-Callière"
 - permanente intérieur, réalisé en 2017 par la firme Moment Factory
 - installation contemplative & immersive = no besoin faire autre chose que regarder et se déplacer jusqu'à la fin.
@@ -56,15 +56,15 @@ peut être ennuyante pour certaines personnes.
 - TEMPS= moi m'a pris environ +/- 15 si avait pas besoin documenter
 
 __appréciation critique avec justification__
-aimé lumières sur parois, très beau et captivant, force visiteurs au moins regarder un peu pour regarder
-++ aime utilisation de écho de structure égout pour faire jouer le son partout. Beaucoup augmenté qualité d'expérience
+- aimé lumières sur parois, très beau et captivant, force visiteurs au moins regarder un peu pour regarder
+++ aime utilisation de écho de structure égout pour faire jouer le son partout.
+  - Beaucoup augmenté qualité d'expérience
 
 __lien autre oeuvres ou dispositif ou expérience multimédia__  
  - Trame sonore avec "SlopPsyopRealism" dans l'exposition "Devenirs partagés. Pratiques de l'IA"
  - SlopPsyop Realism avait sonore, peu audible, et se confont avec les autres installations de l'exposition. COMPARÉ Collecteur de mémoires très audible, son partout, très immersive et ambiant. SlopPsyop, chaos sonore, un bruit parmi tant d'autres, représentant la surabondance de médias et de stimulis. 
 
  ## <ins>**Conclusion**</ins>  
-
  Donc
  - collecteur de mémoires = dispositif situé dans égout,, installation contemplative & immersive, sert mise en valeur et scénographique. S'agit de projection d'images et de couleurs sur les extrémitées et parois d'un égout avec trame sonore jouant partout 
  - Endroit dans lequel situé = musé archéologie Point-À-Callière, le plus grand et plus visité musées histoire montréal
